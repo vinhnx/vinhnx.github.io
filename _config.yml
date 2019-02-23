@@ -20,10 +20,10 @@ topics:
     web_url: https://github.com/topics/swift
     image_url: https://raw.githubusercontent.com/github/explore/8fb8b0e9d61d266721825ce116060773ea2503c2/topics/swift/swift.png
 
-  - name: Xcode
-    web_url: https://github.com/topics/xcode
-    image_url: https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png
+  - name: iOS
+    web_url: https://github.com/topics/ios
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ios/ios.png
 
-  - name: Objective-C
-    web_url: https://github.com/topics/objective-c
-    image_url: https://raw.githubusercontent.com/github/explore/41a2f55bebabb0c5cd5babcbfb4f8a8487f9e39b/topics/objective-c/objective-c.png
+  - name: Terminal
+    web_url: https://github.com/topics/terminal
+    image_url: https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png
