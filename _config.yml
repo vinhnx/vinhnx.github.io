@@ -16,10 +16,6 @@ defaults:
       layout: "post"
 
 topics:
-  - name: Rust
-    web_url: https://github.com/topics/rust
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/rust/rust.png
-
   - name: Swift
     web_url: https://github.com/topics/swift
     image_url: https://raw.githubusercontent.com/github/explore/8fb8b0e9d61d266721825ce116060773ea2503c2/topics/swift/swift.png
