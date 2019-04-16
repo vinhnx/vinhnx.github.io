@@ -20,8 +20,8 @@ topics:
     web_url: https://github.com/topics/rust
   - name: Terminal
     web_url: https://github.com/topics/terminal
-  - name: Command line tools
-    web_url: https://github.com/topics/command-line-tools
+  - name: CLI
+    web_url: https://github.com/topics/cli
   - name: Swift
     web_url: https://github.com/topics/Swift
   - name: Objective-C
