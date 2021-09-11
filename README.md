@@ -25,4 +25,4 @@ More about me:
 
 --- 
 
-Source code of this website: [https://github.com/vinhnx/vinhnx.github.io](GitHub)
+Source code of this website: [GitHub](https://github.com/vinhnx/vinhnx.github.io)
