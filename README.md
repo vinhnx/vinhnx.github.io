@@ -1,6 +1,6 @@
 Hello, world!
 
-My name is Nguyen Xuan Vinh, software engineer currently living at Ho Chi Minh city. I'm mainly focused on iOS development.
+My name is Nguyen Xuan Vinh, Software Engineer currently living at Ho Chi Minh city. I'm mainly focused on iOS native development.
 
 When not writing [code](https://github.com/vinhnx?tab=repositories), I love reading [Hacker News](https://news.ycombinator.com/user?id=vinhnx), and exploring open source projects on [GitHub](https://github.com/vinhnx). On my spare time, I occasionally post photos on [Instagram](https://instagram.com/vinhnx) or reading tweets at [@vinhnx](https://twitter.com/@vinhnx), I'm also an avid [podcasts](https://vinhnx.github.io/podcasts/) listener.
 
@@ -16,7 +16,6 @@ My programming interests include: Swift, Objective-C, iOS. Currently learning: D
 More about me:
 
 + [StackOverflow](https://stackoverflow.com/users/1477298/vinh-nguyen)
-+ [StackOverflow CV](https://stackoverflow.com/cv/vinh)
 + [App Store link](http://itunes.com/nguyenvinh)
 + [GitHub](https://github.com/vinhnx)
 + [GitHub resume](http://resume.github.io/?vinhnx)
