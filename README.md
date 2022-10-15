@@ -1,8 +1,8 @@
 Hello, world!
 
-My name is Nguyen Xuan Vinh, Software Engineer currently living at Ho Chi Minh city. I'm mainly focused on iOS native development.
+My name is Nguyen Xuan Vinh, iOS Software Engineer. I'm currently living at Ho Chi Minh city. I'm mainly focused on iOS native development.
 
-When not writing [code](https://github.com/vinhnx?tab=repositories), I love reading [Hacker News](https://news.ycombinator.com/user?id=vinhnx), and exploring open source projects on [GitHub](https://github.com/vinhnx). On my spare time, I occasionally post photos on [Instagram](https://instagram.com/vinhnx) or reading tweets at [@vinhnx](https://twitter.com/@vinhnx), I'm also an avid [podcasts](https://vinhnx.github.io/podcasts/) listener.
+When not writing [code](https://github.com/vinhnx?tab=repositories), I love reading [Hacker News](https://news.ycombinator.com/user?id=vinhnx), and exploring open source projects on [GitHub](https://github.com/vinhnx). On my spare time, I occasionally post photos on [Glass](https://glass.photo/vinhnx) or reading tweets at [@vinhnx](https://twitter.com/@vinhnx), I'm also an avid [podcasts](https://vinhnx.github.io/podcasts/) listener.
 
 I have been making apps from my spare time, while learning Apple technologies, like SwiftUI:
 + Clendar - minimal calendar app -- [AppStore](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041), [Website](https://vinhnx.github.io/clendar-site)
@@ -23,6 +23,8 @@ More about me:
 + [SpeakerDeck](https://speakerdeck.com/vinhnx/)
 + [Twitter](https://twitter.com/@vinhnx)
 + [Instagram](https://instagram.com/vinhnx)
+
+Have a good day, and be happy!
 
 --- 
 
