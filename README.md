@@ -2,6 +2,12 @@ Hello, world!
 
 My name is Nguyen Xuan Vinh, iOS Software Engineer. I'm currently living at Ho Chi Minh city. I'm mainly focused on iOS native development.
 
+----
+
+<a rel="me" href="https://mastodon.social/@vinhnx">Mastodon</a>
+
+----
+
 When not writing [code](https://github.com/vinhnx?tab=repositories), I love reading [Hacker News](https://news.ycombinator.com/user?id=vinhnx), and exploring open source projects on [GitHub](https://github.com/vinhnx). On my spare time, I occasionally post photos on [Glass](https://glass.photo/vinhnx), I'm also an avid [podcasts](https://vinhnx.github.io/podcasts/) listener.
 
 I have been making apps from my spare time, while learning Apple technologies, like SwiftUI:
