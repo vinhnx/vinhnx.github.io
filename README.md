@@ -1,32 +1,35 @@
 Hello, world!
 
-My name is Nguyen Xuan Vinh, iOS Software Engineer. I'm currently living at Ho Chi Minh city. I'm mainly focused on iOS native development.
+**Nguyen Xuan Vinh** serves as an iOS Software Engineer based in Ho Chi Minh city, specializing in native iOS development and **Machine Learning Engineering**.
 
 ----
 
-When not writing [code](https://github.com/vinhnx?tab=repositories), I love reading [Hacker News](https://news.ycombinator.com/user?id=vinhnx), and exploring open source projects on [GitHub](https://github.com/vinhnx). On my spare time, I occasionally post photos on [Instagram](https://instagram.com/vinhnx), I'm also an avid [podcasts](https://vinhnx.github.io/podcasts/) listener.
+Beyond [code development](https://github.com/vinhnx?tab=repositories), Vinh maintains active engagement with the technical community through [Hacker News](https://news.ycombinator.com/user?id=vinhnx) and open-source exploration on [GitHub](https://github.com/vinhnx).
 
-I have been making apps from my spare time, while learning Apple technologies, like SwiftUI:
-+ Clendar - minimal calendar app -- [AppStore](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041), [Website](https://vinhnx.github.io/clendar-site)
+**Technical Research & Development**:
 
-In the past, I started learning iOS and then end-up creating two iOS independent apps, before starting working fulltime:
-+ A markdown text editor with cloud sync [@getWriteDown](https://twitter.com/getWriteDown) -- [website](http://vinhnx.github.io/writedown-site/).
-+ A weather forecast app with text-to-speech (think Weather app for busy people) [@HumidTheApp](https://twitter.com/HumidTheApp) -- [website](http://vinhnx.github.io/humid-site/). 
+**Machine Learning & AI Implementation**:
++ VT.ai - An experimental implementation exploring **Large Language Model** capabilities and **Natural Language Processing** frameworks, with emphasis on multimodal capablities. -- [Repository](https://github.com/vinhnx/VT.ai)
 
-My programming interests include: Swift, Objective-C, iOS. Currently learning: Dart and Flutter. I like: Rust, Go. Love: Open-Source softwares, Git, GitHub, Unix and command-line tools.
+**iOS Application Development**:
++ Clendar - A minimal calendar application implementing advanced iOS frameworks -- [AppStore](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041), [Website](https://vinhnx.github.io/clendar-site)
 
-More about me:
+**Previous Independent Development**:
++ WriteDown - Cloud-synchronized markdown text editor [@getWriteDown](https://twitter.com/getWriteDown) -- [website](http://vinhnx.github.io/writedown-site/)
++ Humid - Text-to-speech weather forecast implementation [@HumidTheApp](https://twitter.com/HumidTheApp) -- [website](http://vinhnx.github.io/humid-site/)
+
+**Technical Expertise**: Primary focus encompasses **Swift**, **Objective-C**, and iOS development frameworks. Current research trajectory includes **Machine Learning Engineering**, **LLM Implementation**, **Python** Dart, and Flutter, with additional interest in Rust and Go. Notable emphasis on Open-Source software development, Git version control, GitHub collaboration, and Unix-based command-line tooling.
+
+**Professional Network**:
 
 + [GitHub](https://github.com/vinhnx)
-+ [Mastondon](https://mastodon.social/@vinhnx)
-+ [App Store link](http://itunes.com/nguyenvinh)
 + [LinkedIn](https://www.linkedin.com/in/vinhnx)
-+ [Twitter](https://twitter.com/@vinhnx)
++ [BlueSky](https://bsky.app/profile/vinhnx.bsky.social)
++ [Mastodon](https://mastodon.social/@vinhnx)
++ [App Store Portfolio](http://itunes.com/nguyenvinh)
++ [X/Twitter](https://twitter.com/@vinhnx)
 + [StackOverflow](https://stackoverflow.com/users/1477298/vinh-nguyen)
-+ [Instagram](https://instagram.com/vinhnx)
 
-Have a good day, and be happy!
+---
 
---- 
-
-Source code of this website: [GitHub](https://github.com/vinhnx/vinhnx.github.io)
+Source code repository: [GitHub](https://github.com/vinhnx/vinhnx.github.io)
