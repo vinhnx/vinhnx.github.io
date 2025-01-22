@@ -42,19 +42,19 @@ A passionate iOS engineer and technical researcher with 10+ years of experience 
 
 ---
 
-## 📍 Connect  
+**Connect**:
+- [GitHub](https://github.com/vinhnx) - Code repositories and open-source contributions
+- [LinkedIn](https://www.linkedin.com/in/vinhnx) - Professional experience and achievements
+- [Stack Overflow](https://stackoverflow.com/users/1477298/vinh-nguyen) - Technical Q&A contributions
+- [Hacker News](https://news.ycombinator.com/user?id=vinhnx) - Tech community discussions
 
-**Technical Discourse**:  
-[![GitHub](https://img.shields.io/badge/-vinhnx-181717?logo=github)](https://github.com/vinhnx)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vinhnx)  
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-orange?logo=stackoverflow)](https://stackoverflow.com/users/1477298/vinh-nguyen)  
-[![Twitter](https://img.shields.io/badge/-@vinhnx-1DA1F2?logo=x)](https://twitter.com/vinhnx)  
-[![Hacker News](https://img.shields.io/badge/HackerNews-orange?logo=hackernews)]([https://twitter.com/vinhnx](https://news.ycombinator.com/user?id=vinhnx))  
-[![App Store](https://img.shields.io/badge/Portfolio-Published_Apps-blue?logo=appstore)](http://itunes.com/nguyenvinh)  
+**Social**:
+- [Twitter](https://twitter.com/vinhnx) - Announcements and quick updates
+- [Mastodon](https://mastodon.social/@vinhnx) - Decentralized tech conversations
+- [Bluesky](https://bsky.app/profile/vinhnx.bsky.social) - Experimental social platform
 
-**Alternative Platforms**:  
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon)](https://mastodon.social/@vinhnx)  
-[![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?logo=bluesky)](https://bsky.app/profile/vinhnx.bsky.social)  
+**Portfolio**:
+- [App Store](http://itunes.com/nguyenvinh) - Published iOS applications
 
 ---
 
