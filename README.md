@@ -34,18 +34,6 @@ A passionate iOS engineer and technical researcher with 10+ years of experience 
 
 ---
 
-## 🧠 Technical Philosophy  
-```swift
-enum DevelopmentPrinciples {
-    case cleanArchitecture
-    case testDrivenDesign
-    case communityDrivenProgress
-    case sustainableOpenSource
-}
-```
-
----
-
 ## 🌐 Community Footprint  
 - 🛠 [GitHub](https://github.com/vinhnx): 50+ repositories, 1.2k+ stars  
 - 💡 [TIL Journal](https://github.com/vinhnx/notes): Shared technical insights since 2016  
