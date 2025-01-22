@@ -43,18 +43,18 @@ A passionate iOS engineer and technical researcher with 10+ years of experience 
 ---
 
 ## 📍 Connect  
-[![Portfolio](https://img.shields.io/badge/Portfolio-iOS_Projects-blue?logo=apple)](https://vinhnx.github.io)  
-[![App Store](https://img.shields.io/badge/Portfolio-7_Published_Apps-blue?logo=appstore)](http://itunes.com/nguyenvinh)  
 
 **Technical Discourse**:  
 [![GitHub](https://img.shields.io/badge/-vinhnx-181717?logo=github)](https://github.com/vinhnx)  
-[![LinkedIn](https://img.shields.io/badge/-Vinh_Nguyen-0077B5?logo=linkedin)](https://www.linkedin.com/in/vinhnx)  
-[![Stack Overflow](https://img.shields.io/badge/-Vinh_Nguyen-F58025?logo=stackoverflow)](https://stackoverflow.com/users/1477298/vinh-nguyen)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vinhnx)  
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-orange?logo=stackoverflow)](https://stackoverflow.com/users/1477298/vinh-nguyen)  
 [![Twitter](https://img.shields.io/badge/-@vinhnx-1DA1F2?logo=x)](https://twitter.com/vinhnx)  
+[![Hacker News](https://img.shields.io/badge/HackerNews-orange?logo=hackernews)]([https://twitter.com/vinhnx](https://news.ycombinator.com/user?id=vinhnx))  
+[![App Store](https://img.shields.io/badge/Portfolio-Published_Apps-blue?logo=appstore)](http://itunes.com/nguyenvinh)  
 
 **Alternative Platforms**:  
-[![Mastodon](https://img.shields.io/badge/-@vinhnx-6364FF?logo=mastodon)](https://mastodon.social/@vinhnx)  
-[![Bluesky](https://img.shields.io/badge/-@vinhnx-1185FE?logo=bluesky)](https://bsky.app/profile/vinhnx.bsky.social)  
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon)](https://mastodon.social/@vinhnx)  
+[![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?logo=bluesky)](https://bsky.app/profile/vinhnx.bsky.social)  
 
 ---
 
