@@ -1,6 +1,6 @@
 Hello, world!
 
-**Nguyen Xuan Vinh** serves as an iOS Software Engineer based in Ho Chi Minh city, specializing in native iOS development and **Machine Learning Engineering**.
+**Nguyen Xuan Vinh** serves as an iOS Software Engineer based in Ho Chi Minh city, specializing in native iOS development.
 
 ----
 
@@ -18,7 +18,7 @@ Beyond [code development](https://github.com/vinhnx?tab=repositories), Vinh main
 + WriteDown - Cloud-synchronized markdown text editor [@getWriteDown](https://twitter.com/getWriteDown) -- [website](http://vinhnx.github.io/writedown-site/)
 + Humid - Text-to-speech weather forecast implementation [@HumidTheApp](https://twitter.com/HumidTheApp) -- [website](http://vinhnx.github.io/humid-site/)
 
-**Technical Expertise**: Primary focus encompasses **Swift**, **Objective-C**, and iOS development frameworks. Current research trajectory includes **Machine Learning Engineering**, **LLM Implementation**, **Python** Dart, and Flutter, with additional interest in Rust and Go. Notable emphasis on Open-Source software development, Git version control, GitHub collaboration, and Unix-based command-line tooling.
+**Technical Expertise**: Primary focus encompasses **Swift**, **Objective-C**, and iOS development frameworks. Current research trajectory includes **AI Research**, **Machine Learning Engineering**, **LLM Implementation**, **Python** Dart, and Flutter, with additional interest in Rust and Go. Notable emphasis on Open-Source software development, Git version control, GitHub collaboration, and Unix-based command-line tooling.
 
 **Professional Network**:
 
