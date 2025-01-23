@@ -8,9 +8,8 @@
 ## 🌟 Professional Profile  
 A passionate iOS engineer and technical researcher with 10+ years of experience building consumer-focused applications. Specializes in:  
 - **Native iOS Development**: Swift/Objective-C expert with deep UIKit/SwiftUI mastery  
-- **AI Integration**: Implementing LLMs (DeepSeek-V3) and NLP frameworks in mobile environments  
-- **Cross-Platform Innovation**: Flutter solutions and experimental Rust/Go tooling  
-- **Community Leadership**: Maintainer of 15+ open-source projects with 2M+ collective downloads  
+- **AI Integration**: Implementing LLMs, Applied AI and NLP in mobile environments 
+- **Open Source**: Maintainer of 15+ open-source projects with 2M+ collective downloads  
 
 ---
 
