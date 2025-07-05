@@ -28,7 +28,7 @@ Experienced iOS engineer and technical researcher with over 10 years of expertis
 ### Signature Applications
 
 **[Clendar](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)**
-Featured by Apple - Modern SwiftUI calendar application with over 500,000 downloads
+Featured by Apple - Modern SwiftUI calendar application
 Features: Siri Shortcuts integration, WidgetKit support, cross-platform synchronization
 
 **[WriteDown](http://vinhnx.github.io/writedown-site/)**
