@@ -21,6 +21,7 @@ Experienced iOS engineer and technical researcher with over 10 years of expertis
 ### Core Contributions
 
 **AI/ML Implementation**
+- [VT Chat](https://github.com/vinhnx/vtchat) - Show HN: Built a Local-First AI Research Platform with Advanced RAG.
 - [VT.ai](https://github.com/vinhnx/VT.ai) - Multimodal LLM framework advancing mobile AI capabilities
 - Contributed to [Ollama](https://github.com/ollama/ollama) LLM tooling ecosystem
 
