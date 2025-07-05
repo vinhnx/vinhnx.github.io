@@ -1,61 +1,70 @@
-# Hello, world!
+# Nguyen Xuan Vinh
 
-**Nguyen Xuan Vinh**  
-🔍 *"Learn by doing." - vinhnx*  
+**Senior iOS Engineer & Technical Researcher**
 
----
-
-## 🌟 Professional Profile  
-A passionate iOS engineer and technical researcher with 10+ years of experience building consumer-focused applications. Specializes in:  
-- **Native iOS Development**: Swift/Objective-C expert with deep UIKit/SwiftUI mastery  
-- **AI Integration**: Implementing LLMs, Applied AI and NLP in mobile environments 
-- **Open Source**: Maintainer of 15+ open-source projects with 2M+ collective downloads  
+*"Learn by doing." - vinhnx*
 
 ---
 
-## 🚀 Career Highlights  
+## Professional Profile
 
-### 🔍 Core Contributions  
-- **AI/ML Implementation**  
-  📌 [VT.ai](https://github.com/vinhnx/VT.ai) - Multimodal LLM framework pushing mobile AI boundaries  
-  📌 Contributed to [Ollama](https://github.com/ollama/ollama) LLM tooling ecosystem  
+Experienced iOS engineer and technical researcher with over 10 years of expertise in building consumer-focused applications. Core specializations include:
 
-### 📱 Signature Apps  
-- **[Clendar](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)**  
-  *Featured by Apple* - Modern SwiftUI calendar with 500k+ downloads  
-  ✅ Siri Shortcuts ✅ WidgetKit ✅ Cross-platform sync  
-
-- **[WriteDown](http://vinhnx.github.io/writedown-site/)**  
-  Markdown editor with real-time cloud sync (Swift + Core Data)  
-
-- **[Humid](http://vinhnx.github.io/humid-site/)**  
-  Voice-first weather app using Combine framework  
+- **Native iOS Development**: Expert-level proficiency in Swift and Objective-C with comprehensive knowledge of UIKit and SwiftUI frameworks
+- **AI Integration**: Implementing large language models, applied AI, and natural language processing solutions in mobile environments
+- **Open Source**: Active maintainer of 15+ open-source projects with over 2 million collective downloads
 
 ---
 
-## 🌐 Community Footprint  
-- 🛠 [GitHub](https://github.com/vinhnx): 50+ repositories, 1.2k+ stars  
-- 💡 [TIL Journal](https://github.com/vinhnx/notes): Shared technical insights since 2016  
-- 🗣 Regular contributor on [Hacker News](https://news.ycombinator.com/user?id=vinhnx)  
-- 🤖 AI experiments on [Hugging Face](https://huggingface.co/vinhnx90)  
+## Career Highlights
+
+### Core Contributions
+
+**AI/ML Implementation**
+- [VT.ai](https://github.com/vinhnx/VT.ai) - Multimodal LLM framework advancing mobile AI capabilities
+- Contributed to [Ollama](https://github.com/ollama/ollama) LLM tooling ecosystem
+
+### Signature Applications
+
+**[Clendar](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)**
+Featured by Apple - Modern SwiftUI calendar application with over 500,000 downloads
+Features: Siri Shortcuts integration, WidgetKit support, cross-platform synchronization
+
+**[WriteDown](http://vinhnx.github.io/writedown-site/)**
+Markdown editor with real-time cloud synchronization built using Swift and Core Data
+
+**[Humid](http://vinhnx.github.io/humid-site/)**
+Voice-first weather application utilizing the Combine framework
 
 ---
 
-**Connect**:
+## Community Engagement
+
+- **[GitHub](https://github.com/vinhnx)**: 50+ repositories with 1,200+ stars
+- **[Technical Journal](https://github.com/vinhnx/notes)**: Continuous sharing of technical insights since 2016
+- **[Hacker News](https://news.ycombinator.com/user?id=vinhnx)**: Regular contributor to technical discussions
+- **[Hugging Face](https://huggingface.co/vinhnx90)**: AI experimentation and model development
+
+---
+
+## Professional Links
+
+**Technical Platforms**
 - [GitHub](https://github.com/vinhnx) - Code repositories and open-source contributions
 - [LinkedIn](https://www.linkedin.com/in/vinhnx) - Professional experience and achievements
 - [Stack Overflow](https://stackoverflow.com/users/1477298/vinh-nguyen) - Technical Q&A contributions
 - [Hacker News](https://news.ycombinator.com/user?id=vinhnx) - Tech community discussions
 
-**Social**:
-- [Twitter](https://twitter.com/vinhnx) - Announcements and quick updates
-- [Mastodon](https://mastodon.social/@vinhnx) - Decentralized tech conversations
-- [Bluesky](https://bsky.app/profile/vinhnx.bsky.social) - Experimental social platform
+**Social Networks**
+- [Twitter](https://twitter.com/vinhnx) - Professional announcements and updates
+- [Mastodon](https://mastodon.social/@vinhnx) - Decentralized technology discussions
+- [Bluesky](https://bsky.app/profile/vinhnx.bsky.social) - Emerging social platform engagement
 
-**Portfolio**:
+**Portfolio**
 - [App Store](http://itunes.com/nguyenvinh) - Published iOS applications
 
 ---
 
-🔍 *"Learn by doing." - vinhnx*  
-📦 Source repository: [vinhnx.github.io](https://github.com/vinhnx/vinhnx.github.io)
+*"Learn by doing." - vinhnx*
+
+Source repository: [vinhnx.github.io](https://github.com/vinhnx/vinhnx.github.io)
