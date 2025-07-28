@@ -2,7 +2,7 @@
 
 **Senior iOS Engineer & Technical Researcher**
 
-*Personal motto: "Learn by doing."*
+*My motto: "Learn by doing."*
 
 ---
 
@@ -31,7 +31,7 @@ Experienced iOS engineer and technical researcher with over 10 years of expertis
 - [VT.ai](https://github.com/vinhnx/VT.ai) - Multimodal LLM framework advancing mobile AI capabilities
 - Contributed to [Ollama](https://github.com/ollama/ollama) LLM tooling ecosystem
 
-### Personal Signature Applications
+### Signature Applications
 
 **[Clendar](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)**
 Featured by Apple - Modern SwiftUI calendar application
