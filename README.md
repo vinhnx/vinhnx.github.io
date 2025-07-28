@@ -2,7 +2,7 @@
 
 **Senior iOS Engineer & Technical Researcher**
 
-*"Learn by doing." - vinhnx*
+*Personal motto: "Learn by doing."*
 
 ---
 
@@ -16,7 +16,13 @@ Experienced iOS engineer and technical researcher with over 10 years of expertis
 
 ---
 
-## Career Highlights
+### Professional Publication
+
+**[Rapid Listing - Building Multi-modal AI Application for iOS](https://blog.chotot.com/rapid-listing-building-multi-modal-ai-application/)** Published on Chợ Tốt blog.
+
+---
+
+## Highlights
 
 ### Core Contributions
 
@@ -25,7 +31,7 @@ Experienced iOS engineer and technical researcher with over 10 years of expertis
 - [VT.ai](https://github.com/vinhnx/VT.ai) - Multimodal LLM framework advancing mobile AI capabilities
 - Contributed to [Ollama](https://github.com/ollama/ollama) LLM tooling ecosystem
 
-### Signature Applications
+### Personal Signature Applications
 
 **[Clendar](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)**
 Featured by Apple - Modern SwiftUI calendar application
@@ -65,7 +71,5 @@ Voice-first weather application utilizing the Combine framework
 - [App Store](http://itunes.com/nguyenvinh) - Published iOS applications
 
 ---
-
-*"Learn by doing." - vinhnx*
 
 Source repository: [vinhnx.github.io](https://github.com/vinhnx/vinhnx.github.io)
