@@ -27,7 +27,7 @@ Experienced iOS engineer and technical researcher with over 10 years of expertis
 ### Core Contributions
 
 **AI/ML Implementation**
-- [VT Chat](https://github.com/vinhnx/vtchat) - Show HN: Built a Local-First AI Research Platform with Advanced RAG.
+- [VT Chat](https://github.com/vinhnx/vtchat) - Minimal AI Research Platform with Advanced RAG.
 - [VT.ai](https://github.com/vinhnx/VT.ai) - Multimodal LLM framework advancing mobile AI capabilities
 - Contributed to [Ollama](https://github.com/ollama/ollama) LLM tooling ecosystem
 
@@ -45,15 +45,6 @@ Voice-first weather application utilizing the Combine framework
 
 ---
 
-## Community Engagement
-
-- **[GitHub](https://github.com/vinhnx)**: 50+ repositories with 1,200+ stars
-- **[Technical Journal](https://github.com/vinhnx/notes)**: Continuous sharing of technical insights since 2016
-- **[Hacker News](https://news.ycombinator.com/user?id=vinhnx)**: Regular contributor to technical discussions
-- **[Hugging Face](https://huggingface.co/vinhnx90)**: AI experimentation and model development
-
----
-
 ## Professional Links
 
 **Technical Platforms**
@@ -64,11 +55,6 @@ Voice-first weather application utilizing the Combine framework
 
 **Social Networks**
 - [Twitter](https://twitter.com/vinhnx) - Professional announcements and updates
-- [Mastodon](https://mastodon.social/@vinhnx) - Decentralized technology discussions
-- [Bluesky](https://bsky.app/profile/vinhnx.bsky.social) - Emerging social platform engagement
-
-**Portfolio**
-- [App Store](http://itunes.com/nguyenvinh) - Published iOS applications
 
 ---
 
