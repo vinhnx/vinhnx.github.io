@@ -49,6 +49,7 @@ Voice-first weather application utilizing the Combine framework
 
 **Technical Platforms**
 - [GitHub](https://github.com/vinhnx) - Code repositories and open-source contributions
+- [HuggingFace](https://huggingface.co/vinhnx90) - ML/AI works
 - [LinkedIn](https://www.linkedin.com/in/vinhnx) - Professional experience and achievements
 - [Stack Overflow](https://stackoverflow.com/users/1477298/vinh-nguyen) - Technical Q&A contributions
 - [Hacker News](https://news.ycombinator.com/user?id=vinhnx) - Tech community discussions
