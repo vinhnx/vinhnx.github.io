@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nguyễn Xuân Vĩnh- CV</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background: #fff;
+        }
+
+        h1 {
+            font-size: 24px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #000;
+        }
+
+        .social-links {
+            display: flex;
+            gap: 16px;
+            margin-bottom: 20px;
+            font-size: 14px;
+            flex-wrap: wrap;
+        }
+
+        .social-links a {
+            color: #555;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .social-links a:hover {
+            color: #0066cc;
+        }
+
+        .social-links span {
+            color: #ccc;
+        }
+
+        h2 {
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-top: 32px;
+            margin-bottom: 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #e0e0e0;
+            color: #000;
+        }
+
+        .intro {
+            font-size: 15px;
+            color: #555;
+            margin-bottom: 24px;
+            line-height: 1.7;
+        }
+
+        .position {
+            margin-bottom: 20px;
+        }
+
+        .position-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 6px;
+        }
+
+        .position-title {
+            font-weight: 600;
+            font-size: 15px;
+        }
+
+        .company {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .date {
+            color: #888;
+            font-size: 13px;
+            white-space: nowrap;
+        }
+
+        .description {
+            color: #555;
+            font-size: 14px;
+            margin-top: 4px;
+            line-height: 1.6;
+        }
+
+        ul {
+            margin: 8px 0;
+            padding-left: 20px;
+        }
+
+        li {
+            font-size: 14px;
+            color: #555;
+            margin-bottom: 4px;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: 180px 1fr;
+            gap: 12px;
+            font-size: 14px;
+        }
+
+        .skill-category {
+            font-weight: 500;
+            color: #333;
+        }
+
+        .skill-items {
+            color: #555;
+        }
+
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .project-link {
+            font-size: 13px;
+            color: #888;
+        }
+
+        .award {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 12px;
+            font-size: 14px;
+        }
+
+        .award-title {
+            color: #333;
+        }
+
+        .award-org {
+            color: #888;
+            font-size: 13px;
+        }
+
+        @media print {
+            body {
+                padding: 20px;
+            }
+
+            h2 {
+                page-break-after: avoid;
+            }
+
+            .position {
+                page-break-inside: avoid;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .position-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .date {
+                margin-top: 4px;
+            }
+
+            .skills-grid {
+                grid-template-columns: 1fr;
+                gap: 8px;
+            }
+
+            .skill-category {
+                font-weight: 600;
+                margin-top: 8px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Nguyễn Xuân Vĩnh</h1>
+
+    <div class="social-links">
+        <a href="https://vinhnx.github.io" target="_blank">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="2" y1="12" x2="22" y2="12"></line>
+                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z">
+                </path>
+            </svg>
+            vinhnx.github.io
+        </a>
+        <span>•</span>
+        <a href="https://github.com/vinhnx" target="_blank">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+                <path
+                    d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" />
+            </svg>
+            github.com/vinhnx
+        </a>
+        <span>•</span>
+        <a href="https://huggingface.co/vinhnx90" target="_blank">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+                <path
+                    d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-4-8c.55 0 1-.45 1-1s-.45-1-1-1-1 .45-1 1 .45 1 1 1zm8 0c.55 0 1-.45 1-1s-.45-1-1-1-1 .45-1 1 .45 1 1 1zm-4 4c2.21 0 4-1.79 4-4h-8c0 2.21 1.79 4 4 4z" />
+            </svg>
+            huggingface.co/vinhnx90
+        </a>
+    </div>
+
+    <div class="intro">
+        10+ years specializing in native iOS development and AI integration. Expert in Swift, Objective-C,
+        and modern iOS frameworks (UIKit, SwiftUI, Combine). Currently pioneering multi-modal AI applications
+        in e-commerce at Chợ Tốt, serving millions of users in Vietnam.
+    </div>
+
+    <h2>Experience</h2>
+
+    <div class="position">
+        <div class="position-header">
+            <div>
+                <span class="position-title">Senior iOS Engineer</span>
+                <span class="company">• Chợ Tốt</span>
+            </div>
+            <span class="date">May 2022 - Present</span>
+        </div>
+        <div class="description">
+            Leading AI-driven mobile innovation for Vietnam's largest re-commerce platform
+        </div>
+        <ul>
+            <li>Architected "Quét Là Bán" - first multi-modal AI application combining real-time camera processing and
+                on-device ML</li>
+            <li>Integrated TensorFlow Lite for object detection and dynamic questionnaires</li>
+            <li>Built real-time video processing pipeline reducing listing creation time by 70%</li>
+        </ul>
+    </div>
+
+    <div class="position">
+        <div class="position-header">
+            <div>
+                <span class="position-title">Mobile Engineer</span>
+                <span class="company">• VinHMS (Vingroup)</span>
+            </div>
+            <span class="date">Sep 2019 - May 2022</span>
+        </div>
+        <div class="description">
+            Developed hospitality and travel applications for Vinpearl resort chain
+        </div>
+        <ul>
+            <li>Built MyVinpearl app serving 1M+ resort guests</li>
+            <li>Developed CiTravel booking platform and CiOwner management system</li>
+        </ul>
+    </div>
+
+    <div class="position">
+        <div class="position-header">
+            <div>
+                <span class="position-title">iOS Developer</span>
+                <span class="company">• 2359 Media</span>
+            </div>
+            <span class="date">Feb 2014 - Sep 2019</span>
+        </div>
+        <div class="description">
+            Delivered diverse mobile solutions across news, streaming, and tourism sectors
+        </div>
+        <ul>
+            <li>Singtel TV GO - Streaming app for 2018 FIFA World Cup (Singapore market)</li>
+            <li>NewsLoop - Popular curated news reader application</li>
+            <li>Visit Singapore - Official travel guide with AR features for Tourism Board</li>
+        </ul>
+    </div>
+
+    <h2>Open Source</h2>
+
+    <div class="position">
+        <div class="position-header">
+            <div>
+                <span class="position-title"><a href="https://github.com/vinhnx/VT.ai">VT.ai</a></span>
+                <span class="company">• 86+ stars</span>
+            </div>
+            <span class="date">2024 - Present</span>
+        </div>
+        <div class="description">Multimodal AI chat app with dynamic conversation routing</div>
+    </div>
+
+    <div class="position">
+        <div class="position-header">
+            <div>
+                <span class="position-title"><a href="https://github.com/vinhnx/VT.ai">VT Chat</a></span>
+            </div>
+            <span class="date">2024 - Present</span>
+        </div>
+        <div class="description">VT is a modern, privacy-first AI chat application with deep research.</div>
+    </div>
+
+    <div class="position">
+        <div class="position-header">
+            <div>
+                <span class="position-title"><a href="https://github.com/vinhnx/Clendar">Clendar</a></span>
+                <span class="company">• 683+ stars</span>
+            </div>
+            <span class="date">2020 - Present</span>
+        </div>
+        <div class="description">Minimal calendar app built with SwiftUI - Featured by Apple</div>
+    </div>
+    <h2>Skills</h2>
+
+    <div class="skills-grid">
+        <div class="skill-category">Languages</div>
+        <div class="skill-items">Swift, Objective-C, Python, JavaScript</div>
+
+        <div class="skill-category">iOS Frameworks</div>
+        <div class="skill-items">UIKit, SwiftUI, Combine, Core Data, AVFoundation</div>
+
+        <div class="skill-category">AI/ML</div>
+        <div class="skill-items">TensorFlow Lite, Core ML, LLMs, Computer Vision, NLP</div>
+
+        <div class="skill-category">Architecture</div>
+        <div class="skill-items">Clean Architecture, MVVM, Protocol-Oriented Programming</div>
+    </div>
+
+    <h2>Education</h2>
+
+    <div class="position">
+        <div class="position-header">
+            <div>
+                <span class="position-title">Engineer's Degree, Information Technology</span>
+                <span class="company">• Tay Do University</span>
+            </div>
+            <span class="date">2008 - 2012</span>
+        </div>
+    </div>
+
+    <h2>Certifications</h2>
+
+    <div class="award">
+        <div>
+            <div class="award-title">Kaggle & Google 5-Day Gen AI Intensive</div>
+        </div>
+        <span class="date">2025</span>
+    </div>
+
+    <div class="award">
+        <div>
+            <div class="award-title">AI Agents Fundamentals</div>
+            <div class="award-org">Hugging Face</div>
+        </div>
+        <span class="date">2025</span>
+    </div>
+
+    <div class="award">
+        <div>
+            <div class="award-title">The Reasoning Course - Building AI models that reason</div>
+            <div class="award-org">Hugging Face</div>
+        </div>
+        <span class="date">2025</span>
+    </div>
+</body>
+
+</html>
