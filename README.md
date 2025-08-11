@@ -2,61 +2,64 @@
 
 **Senior iOS Engineer & Technical Researcher**
 
-*My motto: "Learn by doing."*
+_My motto: "Learn by doing."_
+
+📄 **[View My CV](https://vinhnx.github.io/cv.html)** | 💼 [LinkedIn](https://www.linkedin.com/in/vinhnx) | 🐙 [GitHub](https://github.com/vinhnx)
 
 ---
 
-## Professional Profile
+## About Me
 
-Experienced iOS engineer and technical researcher with over 10 years of expertise in building consumer-focused applications. Core specializations include:
+Senior iOS engineer with 10+ years of experience building consumer-focused applications that serve millions of users. Currently pioneering AI-driven mobile innovation at Vietnam's largest re-commerce platform.
 
-- **Native iOS Development**: Expert-level proficiency in Swift and Objective-C with comprehensive knowledge of UIKit and SwiftUI frameworks
-- **AI Integration**: Implementing large language models, applied AI, and natural language processing solutions in mobile environments
-- **Open Source**: Active maintainer of 15+ open-source projects with over 2 million collective downloads
+### Core Expertise
 
----
-
-### Professional Publication
-
-**[Rapid Listing - Building Multi-modal AI Application for iOS](https://blog.chotot.com/rapid-listing-building-multi-modal-ai-application/)** Published on Chợ Tốt blog.
+-   **Native iOS Development** - Expert in Swift, Objective-C, UIKit, and SwiftUI
+-   **AI/ML Integration** - Implementing LLMs, computer vision, and NLP in mobile apps
+-   **Open Source** - Maintainer of 15+ projects with 2M+ collective downloads
+-   **Technical Leadership** - Architecting scalable solutions for high-traffic applications
 
 ---
 
-## Highlights
+## Featured Work
 
-### Core Contributions
+### 🤖 AI/ML Projects
 
-**AI/ML Implementation**
-- [VT Chat](https://github.com/vinhnx/vtchat) - Minimal AI Research Platform with Advanced RAG.
-- [VT.ai](https://github.com/vinhnx/VT.ai) - Multimodal LLM framework advancing mobile AI capabilities
-- Contributed to [Ollama](https://github.com/ollama/ollama) LLM tooling ecosystem
+-   **[VT Chat](https://github.com/vinhnx/vtchat)** - Minimal AI research platform with advanced RAG capabilities
+-   **[VT.ai](https://github.com/vinhnx/VT.ai)** - Multimodal LLM framework for mobile AI applications
+-   **[Ollama](https://github.com/ollama/ollama)** - Contributing to the LLM tooling ecosystem
 
-### Signature Applications
+### 📱 iOS Applications
 
-**[Clendar](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)**
-Featured by Apple - Modern SwiftUI calendar application
-Features: Siri Shortcuts integration, WidgetKit support, cross-platform synchronization
+-   **[Clendar](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)** ⭐ _Featured by Apple_
+    Modern SwiftUI calendar with Siri Shortcuts, WidgetKit, and cloud sync
+-   **[WriteDown](http://vinhnx.github.io/writedown-site/)**
+    Markdown editor with real-time cloud synchronization
+-   **[Humid](http://vinhnx.github.io/humid-site/)**
+    Voice-first weather app built with Combine framework
 
-**[WriteDown](http://vinhnx.github.io/writedown-site/)**
-Markdown editor with real-time cloud synchronization built using Swift and Core Data
+### 📝 Technical Writing
 
-**[Humid](http://vinhnx.github.io/humid-site/)**
-Voice-first weather application utilizing the Combine framework
-
----
-
-## Professional Links
-
-**Technical Platforms**
-- [GitHub](https://github.com/vinhnx) - Code repositories and open-source contributions
-- [HuggingFace](https://huggingface.co/vinhnx90) - ML/AI works
-- [LinkedIn](https://www.linkedin.com/in/vinhnx) - Professional experience and achievements
-- [Stack Overflow](https://stackoverflow.com/users/1477298/vinh-nguyen) - Technical Q&A contributions
-- [Hacker News](https://news.ycombinator.com/user?id=vinhnx) - Tech community discussions
-
-**Social Networks**
-- [Twitter](https://twitter.com/vinhnx) - Professional announcements and updates
+**[Rapid Listing - Building Multi-modal AI Application for iOS](https://blog.chotot.com/rapid-listing-building-multi-modal-ai-application/)**
+_Published on Chợ Tốt Engineering Blog_
 
 ---
 
-Source repository: [vinhnx.github.io](https://github.com/vinhnx/vinhnx.github.io)
+## Connect With Me
+
+### 🔗 Professional
+
+-   [GitHub](https://github.com/vinhnx) - Open source contributions and repositories
+-   [HuggingFace](https://huggingface.co/vinhnx90) - AI/ML models and datasets
+-   [LinkedIn](https://www.linkedin.com/in/vinhnx) - Professional network and experience
+-   [Stack Overflow](https://stackoverflow.com/users/1477298/vinh-nguyen) - Technical Q&A
+
+### 🌐 Community
+
+-   [Twitter](https://twitter.com/vinhnx) - Tech updates and insights
+-   [Hacker News](https://news.ycombinator.com/user?id=vinhnx) - Tech discussions
+
+---
+
+_This page is built with Jekyll and hosted on GitHub Pages_
+📂 [Source Repository](https://github.com/vinhnx/vinhnx.github.io)

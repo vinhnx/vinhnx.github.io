@@ -1,1 +1,20 @@
 theme: jekyll-theme-minimal
+title: "Nguyen Xuan Vinh"
+description: "Senior iOS Engineer & Technical Researcher specializing in AI-driven mobile applications"
+author: "Nguyen Xuan Vinh"
+url: "https://vinhnx.github.io"
+
+# SEO and social
+twitter:
+    username: vinhnx
+
+github:
+    username: vinhnx
+
+# Navigation
+show_downloads: false
+
+# Plugins
+plugins:
+    - jekyll-sitemap
+    - jekyll-feed
