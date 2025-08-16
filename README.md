@@ -12,13 +12,17 @@ _My motto: "Learn by doing."_
 
 Senior iOS Engineer bridging the gap between native mobile excellence and cutting-edge AI innovation. With 10+ years crafting exceptional iOS experiences, I specialize in integrating advanced AI capabilities—from LLMs to multimodal processing—directly into mobile applications.
 
-Technical Leadership
+### Technical Leadership
 Deep expertise in Swift, Objective-C, SwiftUI, and UIKit, combined with hands-on experience implementing production-ready AI solutions. Passionate about exploring the intersection of mobile development and artificial intelligence, particularly in NLP and multimodal data processing.
 
-Notable Achievements
+### Notable Achievements
+
 • Chợ Tốt: Architected the AI-powered Rapid Listing feature (Đăng nhanh bằng AI), streamlining user experience for millions
+
 • VT.ai: Built a multimodal LLM chat application, pushing the boundaries of on-device AI interactions
+
 • Clendar: Created an elegant SwiftUI calendar app that earned Apple's feature recognition
+
 • VT Chat: Developed an AI research platform for experimenting with conversational AI
 
 I believe in building technology that genuinely improves people's lives—combining robust engineering with intuitive design and intelligent features that feel magical, not mechanical.
