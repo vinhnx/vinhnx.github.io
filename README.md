@@ -10,15 +10,20 @@ _My motto: "Learn by doing."_
 
 ## Professional Summary
 
-Senior iOS engineer with 10+ years of experience specializing in native iOS development and AI integration. Expert in Swift, Objective-C, and modern iOS frameworks including UIKit, SwiftUI, and Combine. Currently pioneering multi-modal AI applications in e-commerce at Chợ Tốt, serving millions of users in Vietnam.
+Senior iOS Engineer bridging the gap between native mobile excellence and cutting-edge AI innovation. With 10+ years crafting exceptional iOS experiences, I specialize in integrating advanced AI capabilities—from LLMs to multimodal processing—directly into mobile applications.
 
-### Technical Expertise
+Technical Leadership
+Deep expertise in Swift, Objective-C, SwiftUI, and UIKit, combined with hands-on experience implementing production-ready AI solutions. Passionate about exploring the intersection of mobile development and artificial intelligence, particularly in NLP and multimodal data processing.
 
--   **Languages**: Swift, Objective-C, Python, JavaScript
--   **iOS Frameworks**: UIKit, SwiftUI, Combine, Core Data, AVFoundation
--   **AI/ML**: TensorFlow Lite, Core ML, LLMs, Computer Vision, NLP
--   **Architecture**: Clean Architecture, MVVM, Protocol-Oriented Programming
--   **Open Source**: Active maintainer of 15+ projects with 2M+ collective downloads
+Notable Achievements
+• Chợ Tốt: Architected the AI-powered Rapid Listing feature (Đăng nhanh bằng AI), streamlining user experience for millions
+• VT.ai: Built a multimodal LLM chat application, pushing the boundaries of on-device AI interactions
+• Clendar: Created an elegant SwiftUI calendar app that earned Apple's feature recognition
+• VT Chat: Developed an AI research platform for experimenting with conversational AI
+
+I believe in building technology that genuinely improves people's lives—combining robust engineering with intuitive design and intelligent features that feel magical, not mechanical.
+
+Currently exploring how next-generation AI can transform mobile experiences while maintaining the performance and privacy users expect from native applications.
 
 ---
 
