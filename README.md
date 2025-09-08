@@ -19,11 +19,13 @@ Deep expertise in Swift, Objective-C, SwiftUI, and UIKit, combined with hands-on
 
 • Chợ Tốt: Architected the AI-powered Rapid Listing feature (Đăng nhanh bằng AI), streamlining user experience for millions
 
+• VT Chat: Developed an AI research platform for experimenting with conversational AI
+
+• VT Code: Minimal CLI Coding Agent, written in Rust
+
 • VT.ai: Built a multimodal LLM chat application, pushing the boundaries of on-device AI interactions
 
 • Clendar: Created an elegant SwiftUI calendar app that earned Apple's feature recognition
-
-• VT Chat: Developed an AI research platform for experimenting with conversational AI
 
 I believe in building technology that genuinely improves people's lives—combining robust engineering with intuitive design and intelligent features that feel magical, not mechanical.
 
@@ -47,7 +49,8 @@ Leading AI-driven mobile innovation for Vietnam's largest re-commerce platform:
 
 ### AI/ML Applications
 
--   **[VT.ai](https://github.com/vinhnx/VT.ai)** (86+ stars) - Multimodal AI chat application with dynamic conversation routing
+-   **[VT.ai](https://github.com/vinhnx/VT.ai)** - Multimodal AI chat application with dynamic conversation routing
+-   **[VT Agent](https://github.com/vinhnx/vtchat)** - Minimal CLI Coding Agent, written in Rust
 -   **[VT Chat](https://github.com/vinhnx/vtchat)** - Modern, privacy-first AI chat application with advanced RAG capabilities
 -   **[Ollama](https://github.com/ollama/ollama)** - Contributing to the LLM tooling ecosystem
 
