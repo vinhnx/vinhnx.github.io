@@ -17,15 +17,17 @@ Deep expertise in Swift, Objective-C, SwiftUI, and UIKit, combined with hands-on
 
 ### Notable Achievements
 
+Professional
+
 • Chợ Tốt: Architected the AI-powered Rapid Listing feature (Đăng nhanh bằng AI), streamlining user experience for millions
 
-• VT Chat: Developed an AI research platform for experimenting with conversational AI
+Personal
 
-• VT Code: Minimal CLI Coding Agent, written in Rust
-
-• VT.ai: Built a multimodal LLM chat application, pushing the boundaries of on-device AI interactions
-
-• Clendar: Created an elegant SwiftUI calendar app that earned Apple's feature recognition
+-   **[VT.ai](https://github.com/vinhnx/VT.ai)** - Multimodal AI chat application with dynamic conversation routing
+-   **[VT Agent](https://github.com/vinhnx/vtchat)** - Minimal CLI Coding Agent, written in Rust
+-   **[VT Chat](https://github.com/vinhnx/vtchat)** - Modern, privacy-first AI chat application with advanced RAG capabilities
+-   **[Clendar](https://github.com/vinhnx/Clendar)** - Minimal calendar app built with SwiftUI, featured by Apple
+-   **[Ollama](https://github.com/ollama/ollama)** - Contributing to the LLM tooling ecosystem
 
 I believe in building technology that genuinely improves people's lives—combining robust engineering with intuitive design and intelligent features that feel magical, not mechanical.
 
@@ -56,7 +58,7 @@ Leading AI-driven mobile innovation for Vietnam's largest re-commerce platform:
 
 ### iOS Applications
 
--   **[Clendar](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)** (683+ stars) - Minimal calendar app built with SwiftUI, featured by Apple
+-   **[Clendar](https://github.com/vinhnx/Clendar)** - Minimal calendar app built with SwiftUI, featured by Apple
 -   **[WriteDown](http://vinhnx.github.io/writedown-site/)** - Markdown editor with real-time cloud synchronization
 -   **[Humid](http://vinhnx.github.io/humid-site/)** - Voice-first weather application utilizing the Combine framework
 
