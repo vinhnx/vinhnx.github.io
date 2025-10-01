@@ -13,7 +13,7 @@ _My motto: "Learn by doing."_
 Senior iOS Engineer bridging the gap between native mobile excellence and cutting-edge AI innovation. With 10+ years crafting exceptional iOS experiences, I specialize in integrating advanced AI capabilities—from LLMs to multimodal processing—directly into mobile applications.
 
 ### Technical Leadership
-Deep expertise in Swift, Objective-C, SwiftUI, and UIKit, combined with hands-on experience implementing production-ready AI solutions. Passionate about exploring the intersection of mobile development and artificial intelligence, particularly in NLP and multimodal data processing.
+Deep expertise in Swift, Objective-C, SwiftUI, and UIKit, familiar with Rust, Python, JavaSript, TypeScript. Combined with hands-on experience implementing production-ready AI solutions. Passionate about exploring the intersection of mobile development and artificial intelligence, particularly in NLP and multimodal data processing.
 
 ### Notable Achievements
 
@@ -23,9 +23,9 @@ Professional
 
 Personal
 
--   **[VT.ai](https://github.com/vinhnx/VT.ai)** - Multimodal AI chat application with dynamic conversation routing
--   **[VT Agent](https://github.com/vinhnx/vtchat)** - Minimal CLI Coding Agent, written in Rust
+-   **[VT Code](https://github.com/vinhnx/vtcode)** - A CLI semantic Coding Agent. Written in Rust. 
 -   **[VT Chat](https://github.com/vinhnx/vtchat)** - Modern, privacy-first AI chat application with advanced RAG capabilities
+-   **[VT.ai](https://github.com/vinhnx/VT.ai)** - Multimodal AI chat application with dynamic conversation routing
 -   **[Clendar](https://github.com/vinhnx/Clendar)** - Minimal calendar app built with SwiftUI, featured by Apple
 -   **[Ollama](https://github.com/ollama/ollama)** - Contributing to the LLM tooling ecosystem
 
