@@ -15,9 +15,9 @@ Senior iOS Engineer bridging the gap between native mobile excellence and cuttin
 ### Technical Leadership
 Deep expertise in Swift, Objective-C, SwiftUI, and UIKit, familiar with Rust, Python, JavaSript, TypeScript. Combined with hands-on experience implementing production-ready AI solutions. Passionate about exploring the intersection of mobile development and artificial intelligence, particularly in NLP and multimodal data processing.
 
-### Writting 
+### My Writting
 
-* Lessons from Building VT Code: An Open-Source CLI AI Coding Agent https://buymeacoffee.com/vinhnx/vt-code
+* [Lessons from Building VT Code: An Open-Source CLI AI Coding Agent](https://buymeacoffee.com/vinhnx/vt-code)
 
 ### Notable Achievements
 
