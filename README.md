@@ -2,7 +2,7 @@
 
 **Senior iOS Engineer & Technical Researcher**
 
-_My motto: "Learn by doing."_
+_"Learning by doing."_
 
 **[View My CV](https://vinhnx.github.io/cv.html)** | [LinkedIn](https://www.linkedin.com/in/vinhnx) | [GitHub](https://github.com/vinhnx)
 
