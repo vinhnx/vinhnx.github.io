@@ -31,7 +31,6 @@ Personal
 -   **[VT Chat](https://github.com/vinhnx/vtchat)** - Modern, privacy-first AI chat application with advanced RAG capabilities
 -   **[VT.ai](https://github.com/vinhnx/VT.ai)** - Multimodal AI chat application with dynamic conversation routing
 -   **[Clendar](https://github.com/vinhnx/Clendar)** - Minimal calendar app built with SwiftUI, featured by Apple
--   **[Ollama](https://github.com/ollama/ollama)** - Contributing to the LLM tooling ecosystem
 
 I believe in building technology that genuinely improves people's lives—combining robust engineering with intuitive design and intelligent features that feel magical, not mechanical.
 
@@ -55,10 +54,10 @@ Leading AI-driven mobile innovation for Vietnam's largest re-commerce platform:
 
 ### AI/ML Applications
 
--   **[VT.ai](https://github.com/vinhnx/VT.ai)** - Multimodal AI chat application with dynamic conversation routing
--   **[VT Agent](https://github.com/vinhnx/vtchat)** - Minimal CLI Coding Agent, written in Rust
+-   **[VT Code](https://github.com/vinhnx/vtcode)** - A CLI semantic Coding Agent. Written in Rust. 
 -   **[VT Chat](https://github.com/vinhnx/vtchat)** - Modern, privacy-first AI chat application with advanced RAG capabilities
--   **[Ollama](https://github.com/ollama/ollama)** - Contributing to the LLM tooling ecosystem
+-   **[VT.ai](https://github.com/vinhnx/VT.ai)** - Multimodal AI chat application with dynamic conversation routing
+-   **[Clendar](https://github.com/vinhnx/Clendar)** - Minimal calendar app built with SwiftUI, featured by Apple
 
 ### iOS Applications
 
