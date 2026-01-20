@@ -32,6 +32,11 @@ Personal
 -   **[VT.ai](https://github.com/vinhnx/VT.ai)** - Multimodal AI chat application with dynamic conversation routing
 -   **[Clendar](https://github.com/vinhnx/Clendar)** - Minimal calendar app built with SwiftUI, featured by Apple
 
+Open Source Contribution
+
+- **[OpenAI Codex](https://github.com/openai/codex/pulls?q=is%3Apr%20author%3Avinhnx%20is%3Aclosed)** -- Made contribution to improve OpenAI's Codex CLI
+- **[QwenCode](https://github.com/QwenLM/qwen-code/pull/933)** -- Made contribution to improve Qwen's QwenCode CLI
+
 I believe in building technology that genuinely improves people's lives—combining robust engineering with intuitive design and intelligent features that feel magical, not mechanical.
 
 Currently exploring how next-generation AI can transform mobile experiences while maintaining the performance and privacy users expect from native applications.
