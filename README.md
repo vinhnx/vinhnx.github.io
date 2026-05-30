@@ -1,114 +1,69 @@
 # Nguyễn Xuân Vĩnh
 
-**Senior iOS Engineer & Technical Researcher**
+**Senior iOS Engineer & Applied AI**
 
 _"Learning by doing."_
 
-**[View My CV](https://vinhnx.github.io/cv.html)** | [LinkedIn](https://www.linkedin.com/in/vinhnx) | [GitHub](https://github.com/vinhnx)
+[CV](https://vinhnx.github.io/cv.html) · [GitHub](https://github.com/vinhnx) · [LinkedIn](https://www.linkedin.com/in/vinhnx)
 
 ---
 
-## Professional Summary
+## About
 
-Senior iOS Engineer bridging the gap between native mobile excellence and cutting-edge AI innovation. With 10+ years crafting exceptional iOS experiences, I specialize in integrating advanced AI capabilities, from LLMs to multimodal processing, directly into mobile applications.
+Senior iOS Engineer with 10+ years building native mobile applications, currently focused on integrating production AI—LLMs, multimodal processing, on-device ML—directly into iOS apps.
 
-### Technical Leadership
-Deep expertise in Swift, Objective-C, SwiftUI, and UIKit, familiar with Rust, Python, JavaSript, TypeScript. Combined with hands-on experience implementing production-ready AI solutions. Passionate about exploring the intersection of mobile development and artificial intelligence, particularly in NLP and multimodal data processing.
-
-### My Writting
-
-* [Lessons from Building VT Code: An Open-Source CLI AI Coding Agent](https://buymeacoffee.com/vinhnx/vt-code)
-
-### Notable Achievements
-
-Professional
-
-• Chợ Tốt: Architected the AI-powered Rapid Listing feature (Đăng nhanh bằng AI), streamlining user experience for millions
-
-Personal
-
--   **[VT Code](https://github.com/vinhnx/vtcode)** - A CLI semantic Coding Agent. Written in Rust. 
--   **[VT Chat](https://github.com/vinhnx/vtchat)** - Modern, privacy-first AI chat application with advanced RAG capabilities
--   **[VT.ai](https://github.com/vinhnx/VT.ai)** - Multimodal AI chat application with dynamic conversation routing
--   **[Clendar](https://github.com/vinhnx/Clendar)** - Minimal calendar app built with SwiftUI, featured by Apple
-
-Open Source Contribution
-
-- **[OpenAI Codex](https://github.com/openai/codex/pulls?q=is%3Apr%20author%3Avinhnx%20is%3Aclosed)** -- Made contribution to improve OpenAI's Codex CLI
-- **[QwenCode](https://github.com/QwenLM/qwen-code/pull/933)** -- Made contribution to improve Qwen's QwenCode CLI
-
-I believe in building technology that genuinely improves people's lives—combining robust engineering with intuitive design and intelligent features that feel magical, not mechanical.
-
-Currently exploring how next-generation AI can transform mobile experiences while maintaining the performance and privacy users expect from native applications.
+Deep expertise in Swift, Objective-C, SwiftUI, and UIKit; working knowledge of Rust, Python, JavaScript, and TypeScript. Particular interest in NLP and multimodal data processing on mobile.
 
 ---
 
-## Current Role
+## Experience
 
-**Senior iOS Engineer at Chợ Tốt** (May 2022 - Present)
+**Senior iOS Engineer — Chợ Tốt** (May 2022 – Present)
 
-Leading AI-driven mobile innovation for Vietnam's largest re-commerce platform:
+Leading AI-driven mobile development for Vietnam's largest re-commerce platform.
 
--   Architected "Quét Là Bán" - first multi-modal AI application combining real-time camera processing and on-device ML
--   Integrated TensorFlow Lite for object detection and dynamic questionnaires
--   Built real-time video processing pipeline reducing listing creation time by 70%
+- Architected "Quét Là Bán" / AI Rapid Listing (Đăng nhanh bằng AI)—a multimodal feature combining real-time camera processing and on-device ML, serving millions
+- Integrated TensorFlow Lite for object detection and dynamic questionnaires
+- Built a real-time video pipeline that cut listing creation time by 70%
 
----
+**Mobile Engineer — VinHMS (Vingroup)** (Sep 2019 – May 2022)
+- Built MyVinpearl, serving 1M+ resort guests
+- Developed the CiTravel booking platform and CiOwner management system
 
-## Featured Projects
-
-### AI/ML Applications
-
--   **[VT Code](https://github.com/vinhnx/vtcode)** - A CLI semantic Coding Agent. Written in Rust. 
--   **[VT Chat](https://github.com/vinhnx/vtchat)** - Modern, privacy-first AI chat application with advanced RAG capabilities
--   **[VT.ai](https://github.com/vinhnx/VT.ai)** - Multimodal AI chat application with dynamic conversation routing
--   **[Clendar](https://github.com/vinhnx/Clendar)** - Minimal calendar app built with SwiftUI, featured by Apple
-
-### iOS Applications
-
--   **[Clendar](https://github.com/vinhnx/Clendar)** - Minimal calendar app built with SwiftUI, featured by Apple
--   **[WriteDown](http://vinhnx.github.io/writedown-site/)** - Markdown editor with real-time cloud synchronization
--   **[Humid](http://vinhnx.github.io/humid-site/)** - Voice-first weather application utilizing the Combine framework
-
-### Technical Publications
-
-**[Rapid Listing - Building Multi-modal AI Application for iOS](https://blog.chotot.com/rapid-listing-building-multi-modal-ai-application/)**
-Published on Chợ Tốt Engineering Blog
+**iOS Developer — 2359 Media** (Feb 2014 – Sep 2019)
+- Singtel TV GO — streaming app for the 2018 FIFA World Cup (Singapore)
+- NewsLoop — curated news reader
+- Visit Singapore — official AR travel guide for the Singapore Tourism Board
 
 ---
 
-## Professional Experience
+## Projects
 
-**Mobile Engineer at VinHMS (Vingroup)** (Sep 2019 - May 2022)
-Developed hospitality and travel applications for Vinpearl resort chain
+**Personal**
+- **[VT Code](https://github.com/vinhnx/vtcode)** — CLI semantic coding agent, in Rust
+- **[VT Chat](https://github.com/vinhnx/vtchat)** — Privacy-first AI chat app with RAG
+- **[VT.ai](https://github.com/vinhnx/VT.ai)** — Multimodal AI chat with dynamic conversation routing
+- **[Clendar](https://github.com/vinhnx/Clendar)** — Minimal SwiftUI calendar, featured by Apple
+- **[WriteDown](http://vinhnx.github.io/writedown-site/)** — Markdown editor with cloud sync
+- **[Humid](http://vinhnx.github.io/humid-site/)** — Voice-first weather app built on Combine
 
--   Built MyVinpearl app serving 1M+ resort guests
--   Developed CiTravel booking platform and CiOwner management system
-
-**iOS Developer at 2359 Media** (Feb 2014 - Sep 2019)
-Delivered diverse mobile solutions across news, streaming, and tourism sectors
-
--   Singtel TV GO - Streaming app for 2018 FIFA World Cup (Singapore market)
--   NewsLoop - Popular curated news reader application
--   Visit Singapore - Official travel guide with AR features for Tourism Board
-
----
-
-## Professional Links
-
-**Technical Platforms**
-
--   [GitHub](https://github.com/vinhnx) - Open source contributions and repositories
--   [HuggingFace](https://huggingface.co/vinhnx90) - AI/ML models and datasets
--   [LinkedIn](https://www.linkedin.com/in/vinhnx) - Professional network and experience
--   [Stack Overflow](https://stackoverflow.com/users/1477298/vinh-nguyen) - Technical Q&A contributions
-
-**Community**
-
--   [Twitter](https://twitter.com/vinhnx) - Technical updates and insights
--   [Hacker News](https://news.ycombinator.com/user?id=vinhnx) - Tech community discussions
+**Open Source**
+- **[OpenAI Codex](https://github.com/openai/codex/pulls?q=is%3Apr%20author%3Avinhnx%20is%3Aclosed)** — Codex CLI improvements
+- **[QwenCode](https://github.com/QwenLM/qwen-code/pull/933)** — QwenCode CLI improvements
 
 ---
 
-_This page is built with Jekyll and hosted on GitHub Pages_
-[Source Repository](https://github.com/vinhnx/vinhnx.github.io)
+## Writing
+
+- [Lessons from Building VT Code: An Open-Source CLI AI Coding Agent](https://buymeacoffee.com/vinhnx/vt-code)
+- [Rapid Listing — Building a Multimodal AI Application for iOS](https://blog.chotot.com/rapid-listing-building-multi-modal-ai-application/) — Chợ Tốt Engineering Blog
+
+---
+
+## Elsewhere
+
+[GitHub](https://github.com/vinhnx) · [HuggingFace](https://huggingface.co/vinhnx90) · [LinkedIn](https://www.linkedin.com/in/vinhnx) · [Stack Overflow](https://stackoverflow.com/users/1477298/vinh-nguyen) · [Twitter](https://twitter.com/vinhnx) · [Hacker News](https://news.ycombinator.com/user?id=vinhnx)
+
+---
+
+_Built with Jekyll, hosted on GitHub Pages — [source](https://github.com/vinhnx/vinhnx.github.io)_
