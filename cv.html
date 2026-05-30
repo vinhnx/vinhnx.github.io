@@ -27,14 +27,28 @@
             font-size: 22px;
             font-weight: 700;
             letter-spacing: -0.3px;
-            margin-bottom: 10px;
+            margin-bottom: 4px;
             color: #000;
+        }
+
+        .subtitle {
+            font-size: 14px;
+            font-weight: 500;
+            color: #374151;
+            margin-bottom: 4px;
+        }
+
+        .tagline {
+            font-size: 13px;
+            color: #9ca3af;
+            font-style: italic;
+            margin-bottom: 14px;
         }
 
         .social-links {
             display: flex;
             gap: 14px;
-            margin-bottom: 24px;
+            margin-bottom: 28px;
             font-size: 13px;
             flex-wrap: wrap;
             align-items: center;
@@ -76,8 +90,12 @@
             line-height: 1.75;
         }
 
+        .intro p + p {
+            margin-top: 10px;
+        }
+
         .position {
-            margin-bottom: 20px;
+            margin-bottom: 22px;
         }
 
         .position-header {
@@ -125,7 +143,7 @@
         .description {
             color: #4b5563;
             font-size: 13.5px;
-            margin-top: 4px;
+            margin-top: 3px;
             line-height: 1.65;
         }
 
@@ -186,10 +204,49 @@
             margin-top: 1px;
         }
 
-        .stars {
-            font-size: 12px;
+        .writing-item {
+            margin-bottom: 10px;
+            font-size: 13.5px;
+            line-height: 1.55;
+        }
+
+        .writing-item a {
+            color: #111827;
+            font-weight: 500;
+        }
+
+        .writing-item a:hover {
+            color: #1d4ed8;
+            text-decoration: underline;
+        }
+
+        .writing-venue {
             color: #9ca3af;
-            font-weight: 400;
+            font-size: 12.5px;
+            margin-top: 1px;
+        }
+
+        .elsewhere {
+            margin-top: 36px;
+            padding-top: 18px;
+            border-top: 1px solid #e5e7eb;
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            font-size: 12.5px;
+        }
+
+        .elsewhere a {
+            color: #6b7280;
+            text-decoration: none;
+        }
+
+        .elsewhere a:hover {
+            color: #111827;
+        }
+
+        .elsewhere .sep {
+            color: #d1d5db;
         }
 
         @media print {
@@ -208,6 +265,10 @@
 
             a {
                 color: #111827;
+            }
+
+            .elsewhere {
+                display: none;
             }
         }
 
@@ -236,6 +297,8 @@
 
 <body>
     <h1>Nguyễn Xuân Vĩnh</h1>
+    <div class="subtitle">Senior iOS Engineer &amp; Applied AI</div>
+    <div class="tagline">"Learning by doing."</div>
 
     <div class="social-links">
         <a href="https://vinhnx.github.io" target="_blank">
@@ -255,25 +318,26 @@
             github.com/vinhnx
         </a>
         <span class="sep">·</span>
+        <a href="https://www.linkedin.com/in/vinhnx" target="_blank">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+            </svg>
+            linkedin.com/in/vinhnx
+        </a>
+        <span class="sep">·</span>
         <a href="https://x.com/vinhnx" target="_blank">
             <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.745l7.73-8.835L1.254 2.25H8.08l4.259 5.629L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
             </svg>
             x.com/vinhnx
         </a>
-        <span class="sep">·</span>
-        <a href="https://huggingface.co/vinhnx90" target="_blank">
-            <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-4-8c.55 0 1-.45 1-1s-.45-1-1-1-1 .45-1 1 .45 1 1 1zm8 0c.55 0 1-.45 1-1s-.45-1-1-1-1 .45-1 1 .45 1 1 1zm-4 4c2.21 0 4-1.79 4-4h-8c0 2.21 1.79 4 4 4z" />
-            </svg>
-            huggingface.co/vinhnx90
-        </a>
     </div>
 
     <div class="intro">
-        10+ years in iOS development. Currently building AI-powered features at Chợ Tốt — Vietnam's
-        largest re-commerce platform — and shipping open-source developer tooling in Rust. Strong
-        background in Swift, UIKit, SwiftUI, and on-device ML integration.
+        <p>Senior iOS Engineer with 10+ years building native mobile applications, currently focused on
+        integrating production AI — LLMs, multimodal processing, on-device ML — directly into iOS apps.</p>
+        <p>Deep expertise in Swift, Objective-C, SwiftUI, and UIKit; working knowledge of Rust, Python,
+        JavaScript, and TypeScript. Particular interest in NLP and multimodal data processing on mobile.</p>
     </div>
 
     <h2>Experience</h2>
@@ -287,13 +351,13 @@
             <span class="date">May 2022 – Present</span>
         </div>
         <div class="description">
-            Built multi-modal AI features for Vietnam's largest re-commerce platform.
+            Leading AI-driven mobile development for Vietnam's largest re-commerce platform.
         </div>
         <ul>
-            <li>Architected "Quét Là Bán" — a multi-modal AI listing tool combining real-time camera
-                processing and on-device ML</li>
+            <li>Architected "Quét Là Bán" / AI Rapid Listing (Đăng nhanh bằng AI) — a multimodal feature
+                combining real-time camera processing and on-device ML, serving millions of users</li>
             <li>Integrated TensorFlow Lite for object detection and dynamic questionnaire generation</li>
-            <li>Built a real-time video processing pipeline that cut listing creation time by 70%</li>
+            <li>Built a real-time video pipeline that cut listing creation time by 70%</li>
         </ul>
     </div>
 
@@ -305,12 +369,9 @@
             </div>
             <span class="date">Sep 2019 – May 2022</span>
         </div>
-        <div class="description">
-            Developed hospitality and travel apps for the Vinpearl resort chain.
-        </div>
         <ul>
-            <li>Built MyVinpearl app serving 1M+ resort guests</li>
-            <li>Developed CiTravel booking platform and CiOwner property management system</li>
+            <li>Built MyVinpearl, serving 1M+ resort guests</li>
+            <li>Developed the CiTravel booking platform and CiOwner management system</li>
         </ul>
     </div>
 
@@ -322,79 +383,71 @@
             </div>
             <span class="date">Feb 2014 – Sep 2019</span>
         </div>
-        <div class="description">
-            Built mobile apps across streaming, news, and travel verticals for the Singapore market.
-        </div>
         <ul>
-            <li>Singtel TV GO — streaming app for the 2018 FIFA World Cup</li>
+            <li>Singtel TV GO — streaming app for the 2018 FIFA World Cup (Singapore)</li>
             <li>NewsLoop — curated news reader</li>
-            <li>Visit Singapore — official travel guide with AR features for the Singapore Tourism Board</li>
+            <li>Visit Singapore — official AR travel guide for the Singapore Tourism Board</li>
         </ul>
     </div>
 
-    <h2>Open Source Projects</h2>
+    <h2>Projects</h2>
 
     <div class="position">
         <div class="position-header">
             <div class="position-meta">
                 <span class="position-title"><a href="https://github.com/vinhnx/vtcode">VT Code</a></span>
-                <span class="stars">330 ★</span>
             </div>
             <span class="date">2025 – Present</span>
         </div>
-        <div class="description">
-            Rust-based terminal UI coding agent with multi-provider LLM support and rapid release cadence.
-        </div>
+        <div class="description">CLI semantic coding agent, in Rust.</div>
     </div>
 
     <div class="position">
         <div class="position-header">
             <div class="position-meta">
-                <span class="position-title"><a href="https://vtchat.io.vn">VT Chat</a></span>
+                <span class="position-title"><a href="https://github.com/vinhnx/vtchat">VT Chat</a></span>
             </div>
             <span class="date">2024 – Present</span>
         </div>
-        <div class="description">
-            Privacy-first AI chat application. Local-first architecture, zero server-side storage, BYOK multi-provider design.
-        </div>
+        <div class="description">Privacy-first AI chat app with RAG.</div>
     </div>
 
     <div class="position">
         <div class="position-header">
             <div class="position-meta">
                 <span class="position-title"><a href="https://github.com/vinhnx/VT.ai">VT.ai</a></span>
-                <span class="stars">86 ★</span>
             </div>
             <span class="date">2024 – Present</span>
         </div>
-        <div class="description">
-            Multimodal AI chat app with dynamic conversation routing.
-        </div>
-    </div>
-
-    <div class="position">
-        <div class="position-header">
-            <div class="position-meta">
-                <span class="position-title"><a href="https://github.com/vinhnx/codemods">Rust Migration Codemods</a></span>
-            </div>
-            <span class="date">2025</span>
-        </div>
-        <div class="description">
-            Automated codemods for Rust ecosystem upgrades: clap v3→v4, rand 0.8→0.9, axum 0.7→0.8, hyper 0.14→1.0.
-        </div>
+        <div class="description">Multimodal AI chat with dynamic conversation routing.</div>
     </div>
 
     <div class="position">
         <div class="position-header">
             <div class="position-meta">
                 <span class="position-title"><a href="https://github.com/vinhnx/Clendar">Clendar</a></span>
-                <span class="stars">683 ★</span>
             </div>
-            <span class="date">2020 – 2024</span>
+            <span class="date">2020 – Present</span>
         </div>
-        <div class="description">
-            Minimal calendar app built with SwiftUI — featured by Apple. Now maintained by the community.
+        <div class="description">Minimal SwiftUI calendar — featured by Apple.</div>
+    </div>
+
+    <div class="position">
+        <div class="position-header">
+            <div class="position-meta">
+                <span class="position-title"><a href="http://vinhnx.github.io/writedown-site/">WriteDown</a></span>
+            </div>
         </div>
+        <div class="description">Markdown editor with cloud sync.</div>
+    </div>
+
+    <div class="position">
+        <div class="position-header">
+            <div class="position-meta">
+                <span class="position-title"><a href="http://vinhnx.github.io/humid-site/">Humid</a></span>
+            </div>
+        </div>
+        <div class="description">Voice-first weather app built on Combine.</div>
     </div>
 
     <h2>Open Source Contributions</h2>
@@ -421,17 +474,32 @@
         <div class="description">Contributed improvements to QwenLM's Qwen Code CLI.</div>
     </div>
 
+    <h2>Writing</h2>
+
+    <div class="writing-item">
+        <a href="https://buymeacoffee.com/vinhnx/vt-code" target="_blank">
+            Lessons from Building VT Code: An Open-Source CLI AI Coding Agent
+        </a>
+    </div>
+
+    <div class="writing-item">
+        <a href="https://blog.chotot.com/rapid-listing-building-multi-modal-ai-application/" target="_blank">
+            Rapid Listing — Building a Multimodal AI Application for iOS
+        </a>
+        <div class="writing-venue">Chợ Tốt Engineering Blog</div>
+    </div>
+
     <h2>Skills</h2>
 
     <div class="skills-grid">
         <div class="skill-category">Languages</div>
-        <div class="skill-items">Swift, Objective-C, Rust, Python, JavaScript, Ruby</div>
+        <div class="skill-items">Swift, Objective-C, Rust, Python, JavaScript, TypeScript, Ruby</div>
 
         <div class="skill-category">iOS</div>
         <div class="skill-items">UIKit, SwiftUI, Combine, Core Data, AVFoundation, Core ML, TensorFlow Lite</div>
 
-        <div class="skill-category">Systems / Tooling</div>
-        <div class="skill-items">Ratatui (TUI), MCP (Model Context Protocol), agentic workflows, LLM APIs, BYOK architecture</div>
+        <div class="skill-category">AI / ML</div>
+        <div class="skill-items">LLMs, multimodal processing, on-device ML, NLP, RAG, agentic workflows</div>
 
         <div class="skill-category">Architecture</div>
         <div class="skill-items">Clean Architecture, MVVM, Protocol-Oriented Programming, local-first design</div>
@@ -473,6 +541,20 @@
             <div class="award-org">Hugging Face</div>
         </div>
         <span class="date">2025</span>
+    </div>
+
+    <div class="elsewhere">
+        <a href="https://github.com/vinhnx" target="_blank">GitHub</a>
+        <span class="sep">·</span>
+        <a href="https://huggingface.co/vinhnx90" target="_blank">HuggingFace</a>
+        <span class="sep">·</span>
+        <a href="https://www.linkedin.com/in/vinhnx" target="_blank">LinkedIn</a>
+        <span class="sep">·</span>
+        <a href="https://stackoverflow.com/users/1477298/vinh-nguyen" target="_blank">Stack Overflow</a>
+        <span class="sep">·</span>
+        <a href="https://twitter.com/vinhnx" target="_blank">Twitter</a>
+        <span class="sep">·</span>
+        <a href="https://news.ycombinator.com/user?id=vinhnx" target="_blank">Hacker News</a>
     </div>
 
 </body>
