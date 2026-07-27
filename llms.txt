@@ -6,7 +6,7 @@ Core skills: Swift, Objective-C, SwiftUI, UIKit. Working knowledge of Rust, Pyth
 
 ## Profile
 
-- [CV](https://vinhnx.github.io/cv.html): Full resume and work history
+- [CV](https://vinhnx.github.io/cv.html): Full resume, including detailed skills breakdown, education, and certifications
 - [GitHub](https://github.com/vinhnx): Source code and open source contributions
 - [LinkedIn](https://www.linkedin.com/in/vinhnx): Professional profile
 
@@ -18,10 +18,10 @@ Core skills: Swift, Objective-C, SwiftUI, UIKit. Working knowledge of Rust, Pyth
 
 ## Projects
 
-- [VT Code](https://github.com/vinhnx/vtcode): CLI semantic coding agent written in Rust, MIT licensed
-- [VT Chat](https://github.com/vinhnx/vtchat): Privacy-first AI chat app with RAG, local-first architecture
-- [VT.ai](https://github.com/vinhnx/VT.ai): Multimodal AI chat with dynamic conversation routing
-- [Clendar](https://github.com/vinhnx/Clendar): Minimal SwiftUI calendar app, featured by Apple
+- [VT Code](https://github.com/vinhnx/vtcode): CLI semantic coding agent written in Rust, MIT licensed (2025 – Present)
+- [VT Chat](https://github.com/vinhnx/vtchat): Privacy-first AI chat app with RAG, local-first architecture (2024 – Present)
+- [VT.ai](https://github.com/vinhnx/VT.ai): Multimodal AI chat with dynamic conversation routing (2024 – Present)
+- [Clendar](https://github.com/vinhnx/Clendar): Minimal SwiftUI calendar app, featured by Apple (2020 – Present)
 - [WriteDown](http://vinhnx.github.io/writedown-site/): Markdown editor with cloud sync
 - [Humid](http://vinhnx.github.io/humid-site/): Voice-first weather app built on Combine
 
@@ -34,6 +34,20 @@ Core skills: Swift, Objective-C, SwiftUI, UIKit. Working knowledge of Rust, Pyth
 
 - [Lessons from Building VT Code: An Open-Source CLI AI Coding Agent](https://buymeacoffee.com/vinhnx/vt-code): Notes on building an open-source CLI AI coding agent
 - [Rapid Listing — Building a Multimodal AI Application for iOS](https://blog.chotot.com/rapid-listing-building-multi-modal-ai-application/): Chợ Tốt Engineering Blog post on the multimodal AI Rapid Listing feature
+
+## Skills
+
+- Languages: Swift, Objective-C, Rust, Python, JavaScript, TypeScript, Ruby
+- iOS: UIKit, SwiftUI, Combine, Core Data, AVFoundation, Core ML, TensorFlow Lite
+- AI / ML: LLMs, multimodal processing, on-device ML, NLP, RAG, agentic workflows
+- Architecture: Clean Architecture, MVVM, Protocol-Oriented Programming, local-first design
+
+## Education & Certifications
+
+- B.Eng., Information Technology, Tay Do University (2008 – 2012)
+- 5-Day Gen AI Intensive, Kaggle & Google (2025)
+- AI Agents Fundamentals, Hugging Face (2025)
+- The Reasoning Course — Building AI Models That Reason, Hugging Face (2025)
 
 ## Elsewhere
 
