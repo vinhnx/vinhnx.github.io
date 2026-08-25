@@ -62,7 +62,7 @@ Leading AI-driven mobile development for Vietnam's largest re-commerce platform.
 
 ## Elsewhere
 
-[GitHub](https://github.com/vinhnx) · [HuggingFace](https://huggingface.co/vinhnx90) · [LinkedIn](https://www.linkedin.com/in/vinhnx) · [Stack Overflow](https://stackoverflow.com/users/1477298/vinh-nguyen) · [Twitter](https://twitter.com/vinhnx) · [Hacker News](https://news.ycombinator.com/user?id=vinhnx)
+[YouTube](https://www.youtube.com/vinhnx90) · [GitHub](https://github.com/vinhnx) · [HuggingFace](https://huggingface.co/vinhnx90) · [LinkedIn](https://www.linkedin.com/in/vinhnx) · [Stack Overflow](https://stackoverflow.com/users/1477298/vinh-nguyen) · [Twitter](https://twitter.com/vinhnx) · [Hacker News](https://news.ycombinator.com/user?id=vinhnx) 
 
 ---
 
