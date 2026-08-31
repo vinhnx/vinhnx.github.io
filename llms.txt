@@ -27,8 +27,13 @@ Core skills: Swift, Objective-C, SwiftUI, UIKit. Working knowledge of Rust, Pyth
 
 ## Open Source
 
-- [OpenAI Codex contributions](https://github.com/openai/codex/pulls?q=is%3Apr%20author%3Avinhnx%20is%3Aclosed): Merged pull requests improving the Codex CLI
-- [QwenCode contributions](https://github.com/QwenLM/qwen-code/pull/933): CLI improvements to QwenCode
+**[OpenAI Codex Contributor](https://github.com/openai/codex/commits?author=vinhnx)**
+
+Contributed to OpenAI's open-source Codex CLI
+
+**[Alibaba's QwenCode Contributor](https://github.com/QwenLM/qwen-code/pull/933)**
+
+Contributed to Alibaba's Qwen Code CLI.
 
 ## Writing
 
