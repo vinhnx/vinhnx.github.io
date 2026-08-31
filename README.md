@@ -48,14 +48,14 @@ Leading AI-driven mobile development for Vietnam's largest re-commerce platform.
 - **[Humid](http://vinhnx.github.io/humid-site/)** — Voice-first weather app built on Combine
 
 **Open Source**
-- **[OpenAI Codex](https://github.com/openai/codex/pulls?q=is%3Apr%20author%3Avinhnx%20is%3Aclosed)** — Codex CLI improvements
-- **[QwenCode](https://github.com/QwenLM/qwen-code/pull/933)** — QwenCode CLI improvements
+- **[OpenAI Codex](https://github.com/openai/codex/commits?author=vinhnx)** — OpenAI's Codex Contributor
+- **[QwenCode](https://github.com/QwenLM/qwen-code/pull/933)** — Alibaba's QwenCode Contributor
 
 ---
 
 ## Writing
 
-- [Lessons from Building VT Code: An Open-Source CLI AI Coding Agent](https://buymeacoffee.com/vinhnx/vt-code)
+- [Lessons from Building VT Code: An Open-Source CLI AI Coding Agent](https://huggingface.co/blog/vinhnx90/vt-code) - HuggingFace Blog
 - [Rapid Listing — Building a Multimodal AI Application for iOS](https://blog.chotot.com/rapid-listing-building-multi-modal-ai-application/) — Chợ Tốt Engineering Blog
 
 ---
