@@ -59,13 +59,13 @@ Voice-first weather app built on Combine.
 
 ## Open Source Contributions
 
-**[OpenAI Codex CLI](https://github.com/openai/codex/pulls?q=is%3Apr+author%3Avinhnx+is%3Aclosed)**
+**[OpenAI Codex Contributor](https://github.com/openai/codex/commits?author=vinhnx)**
 
-Merged pull requests improving OpenAI's open-source Codex CLI.
+Contributed to OpenAI's open-source Codex CLI
 
-**[QwenCode CLI](https://github.com/QwenLM/qwen-code/pull/933)**
+**[Alibaba's QwenCode Contributor](https://github.com/QwenLM/qwen-code/pull/933)**
 
-Contributed improvements to QwenLM's Qwen Code CLI.
+Contributed to Alibaba's Qwen Code CLI.
 
 ## Writing
 
