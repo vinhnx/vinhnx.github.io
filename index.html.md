@@ -46,8 +46,8 @@ Leading AI-driven mobile development for Vietnam's largest re-commerce platform.
 
 **Open Source**
 
-- [OpenAI Codex](https://github.com/openai/codex/pulls?q=is%3Apr%20author%3Avinhnx%20is%3Aclosed) — Codex CLI improvements
-- [QwenCode](https://github.com/QwenLM/qwen-code/pull/933) — QwenCode CLI improvements
+- [Contributed to OpenAI's open-source Codex CLI](https://github.com/openai/codex/commits?author=vinhnx) — OpenAI Codex Contributor
+- [Contributed to Alibaba's Qwen Code CLI.](https://github.com/QwenLM/qwen-code/pull/933) — Alibaba's QwenCode Contributor
 
 ## Writing
 
