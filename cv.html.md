@@ -69,7 +69,7 @@ Contributed improvements to QwenLM's Qwen Code CLI.
 
 ## Writing
 
-- [Lessons from Building VT Code: An Open-Source CLI AI Coding Agent](https://buymeacoffee.com/vinhnx/vt-code)
+- [Lessons from Building VT Code: An Open-Source CLI AI Coding Agent](https://huggingface.co/blog/vinhnx90/vt-code) - HuggingFace Blog
 - [Rapid Listing — Building a Multimodal AI Application for iOS](https://blog.chotot.com/rapid-listing-building-multi-modal-ai-application/) — Chợ Tốt Engineering Blog
 
 ## Skills
