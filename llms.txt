@@ -18,7 +18,7 @@ Core skills: Swift, Objective-C, SwiftUI, UIKit. Working knowledge of Rust, Pyth
 
 ## Projects
 
-- [VT Code](https://vinhnx.github.io/VTCode/): Hybrid terminal TUI + web coding interface with WebMCP — open-source coding agent in Rust ([GitHub](https://github.com/vinhnx/VTCode)), MIT licensed (2025 – Present)
+- [VT Code](https://vinhnx.github.io/VTCode/): Hybrid terminal TUI + web coding interface with WebMCP — open-source coding agent in Rust ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/)), MIT licensed (2025 – Present)
 - [VT Chat](https://github.com/vinhnx/vtchat): Privacy-first AI chat app with RAG, local-first architecture (2024 – Present)
 - [VT.ai](https://github.com/vinhnx/VT.ai): Multimodal AI chat with dynamic conversation routing (2024 – Present)
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal SwiftUI calendar app, featured by Apple (2020 – Present)
