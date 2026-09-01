@@ -33,9 +33,9 @@ Leading AI-driven mobile development for Vietnam's largest re-commerce platform.
 
 ## Projects
 
-**[VT Code](https://github.com/vinhnx/vtcode)** (2025 – Present)
+**[VT Code](https://vinhnx.github.io/VTCode/)** (2025 – Present)
 
-CLI semantic coding agent, in Rust.
+Hybrid terminal TUI + web coding interface with WebMCP — open-source coding agent in Rust. ([GitHub](https://github.com/vinhnx/VTCode))
 
 **[VT Chat](https://github.com/vinhnx/vtchat)** (2024 – Present)
 

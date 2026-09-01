@@ -40,7 +40,7 @@ Leading AI-driven mobile development for Vietnam's largest re-commerce platform.
 ## Projects
 
 **Personal**
-- **[VT Code](https://github.com/vinhnx/vtcode)** — CLI semantic coding agent, in Rust
+- **[VT Code](https://vinhnx.github.io/VTCode/)** — Hybrid terminal TUI + web coding interface with WebMCP, in Rust ([GitHub](https://github.com/vinhnx/VTCode))
 - **[VT Chat](https://github.com/vinhnx/vtchat)** — Privacy-first AI chat app with RAG
 - **[VT.ai](https://github.com/vinhnx/VT.ai)** — Multimodal AI chat with dynamic conversation routing
 - **[Clendar](https://github.com/vinhnx/Clendar)** — Minimal SwiftUI calendar, featured by Apple
