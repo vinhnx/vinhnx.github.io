@@ -51,6 +51,7 @@ Leading AI-driven mobile development for Vietnam's largest re-commerce platform.
 
 ## Writing
 
+- [Building VT Code, a year in](https://huggingface.co/blog/vinhnx90/building-vtcode-a-year-in) - HuggingFace Blog
 - [Lessons from Building VT Code: An Open-Source CLI AI Coding Agent](https://huggingface.co/blog/vinhnx90/vt-code) - HuggingFace Blog
 - [Rapid Listing — Building a Multimodal AI Application for iOS](https://blog.chotot.com/rapid-listing-building-multi-modal-ai-application/) — Chợ Tốt Engineering Blog
 

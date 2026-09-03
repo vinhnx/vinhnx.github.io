@@ -37,6 +37,7 @@ Contributed to Alibaba's Qwen Code CLI.
 
 ## Writing
 
+- [Building VT Code, a year in](https://huggingface.co/blog/vinhnx90/building-vtcode-a-year-in): One-year retrospective on VT Code with benchmarks, harness design, context engineering, and security model
 - [Lessons from Building VT Code: An Open-Source CLI AI Coding Agent](https://huggingface.co/blog/vinhnx90/vt-code): Notes on building an VT Code, a open source Rust CLI AI coding agent
 - [Rapid Listing — Building a Multimodal AI Application for iOS](https://blog.chotot.com/rapid-listing-building-multi-modal-ai-application/): Chợ Tốt Engineering Blog post on the multimodal AI Rapid Listing feature
 
