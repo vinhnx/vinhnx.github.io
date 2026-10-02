@@ -9,6 +9,7 @@ Core skills: Swift, Objective-C, SwiftUI, UIKit. Working knowledge of Rust, Pyth
 - [CV](https://vinhnx.github.io/cv.html): Full resume, including detailed skills breakdown, education, and certifications
 - [GitHub](https://github.com/vinhnx): Source code and open source contributions
 - [LinkedIn](https://www.linkedin.com/in/vinhnx): Professional profile
+- [ChatGPT](https://chatgpt.com/u/vinhnx): ChatGPT profile
 
 ## Experience
 
@@ -61,6 +62,7 @@ Contributed to Alibaba's Qwen Code CLI.
 - [Stack Overflow](https://stackoverflow.com/users/1477298/vinh-nguyen)
 - [Twitter / X](https://twitter.com/vinhnx)
 - [Hacker News](https://news.ycombinator.com/user?id=vinhnx)
+- [ChatGPT](https://chatgpt.com/u/vinhnx)
 
 ## Optional
 
