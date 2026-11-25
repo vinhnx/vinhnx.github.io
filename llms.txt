@@ -2,7 +2,7 @@
 
 > Senior Software Engineer · AI Agents & Native Applications with 12+ years building native applications and shipping production software. Creator and maintainer of VT Code, an open-source agent harness in Rust with a native macOS app and terminal interface. Based in Vietnam.
 
-Core skills: Rust, Swift, Objective-C, SwiftUI, UIKit. Agent engineering: agent runtime design, tool execution, sandboxing and permission policies, session persistence, headless execution, evaluations. Focus areas: agent engineering, runtime architecture, developer tools, human-agent interaction, production AI.
+Core skills: Rust, Swift, Objective-C, SwiftUI, UIKit. Agent engineering: agent runtime design, tool execution, sandboxing and permission policies, session persistence, headless execution, evaluations, MCP/ACP integration, plugin systems. Focus areas: agent engineering, runtime architecture, developer tools, human-agent interaction, production AI.
 
 ## Profile
 
@@ -13,7 +13,7 @@ Core skills: Rust, Swift, Objective-C, SwiftUI, UIKit. Agent engineering: agent 
 
 ## Featured
 
-- [VT Code](https://vinhnx.github.io/VTCode/): Open-source agent harness written in Rust, with a shared runtime powering a native macOS application and terminal interface. ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/)), MIT licensed (2025 – Present)
+- [VT Code](https://vinhnx.github.io/VTCode/): Open-source agent harness in Rust (27-crate workspace), with a shared runtime powering a native macOS app and terminal interface. Full agent stack: agent loop, tool execution, sandboxing and permission policies, session persistence, headless execution. 916 GitHub stars, 101 forks. ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/)), MIT licensed (2025 – Present)
 
 ## Experience
 
@@ -23,7 +23,7 @@ Core skills: Rust, Swift, Objective-C, SwiftUI, UIKit. Agent engineering: agent 
 
 ## Projects
 
-- [VT Code](https://vinhnx.github.io/VTCode/): Open-source agent harness written in Rust, with a shared runtime powering a native macOS application and terminal interface. ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/)), MIT licensed (2025 – Present)
+- [VT Code](https://vinhnx.github.io/VTCode/): Open-source agent harness in Rust (27-crate workspace) — shared runtime powering a native macOS app and terminal interface. 916 stars, 101 forks. ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/)), MIT licensed (2025 – Present)
 - [VT Chat](https://github.com/vinhnx/vtchat): Privacy-first AI chat app with RAG, local-first architecture (2024 – Present)
 - [VT.ai](https://github.com/vinhnx/VT.ai): Multimodal AI chat with dynamic conversation routing (2024 – Present)
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal SwiftUI calendar app, featured by Apple (2020 – Present)
@@ -34,11 +34,11 @@ Core skills: Rust, Swift, Objective-C, SwiftUI, UIKit. Agent engineering: agent 
 
 **[OpenAI Codex Contributor](https://github.com/openai/codex/commits?author=vinhnx)**
 
-Contributed to OpenAI's open-source Codex CLI
+Contributed to OpenAI's open-source Codex CLI (merged commits)
 
 **[Alibaba's QwenCode Contributor](https://github.com/QwenLM/qwen-code/pull/933)**
 
-Contributed to Alibaba's Qwen Code CLI.
+Contributed to Alibaba's Qwen Code CLI (merged PR).
 
 ## Writing
 
@@ -49,7 +49,7 @@ Contributed to Alibaba's Qwen Code CLI.
 ## Skills
 
 - Languages: Rust, Swift, Objective-C, Python, JavaScript, TypeScript, Ruby
-- Agent engineering: Agent runtime design, tool execution, sandboxing and permission policies, session persistence, headless execution, evaluations
+- Agent engineering: Agent runtime design, tool execution, sandboxing and permission policies, session persistence, headless execution, evaluations, MCP/ACP integration, plugin systems
 - AI / ML: LLMs, multimodal processing, on-device ML, NLP, RAG, agentic workflows
 - Native: UIKit, SwiftUI, Combine, Core Data, AVFoundation, Core ML, TensorFlow Lite, macOS app development
 - Architecture: Clean Architecture, MVVM, Protocol-Oriented Programming, local-first design

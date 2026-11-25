@@ -16,7 +16,10 @@ Currently focused on agent engineering, runtime architecture, developer tools, a
 
 **[VT Code](https://vinhnx.github.io/VTCode/)** (2025 – Present)
 
-Open-source agent harness written in Rust, with a shared runtime powering a native macOS application and terminal interface. ([GitHub](https://github.com/vinhnx/VTCode) · [Website](https://vinhnx.github.io/VTCode/) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/))
+Open-source agent harness in Rust (27-crate workspace), with a shared runtime powering a native macOS app and terminal interface. ([GitHub](https://github.com/vinhnx/VTCode) · [Website](https://vinhnx.github.io/VTCode/) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/))
+
+- Full agent stack: agent loop, tool execution, sandboxing and permission policies, session persistence, headless execution
+- 916 GitHub stars · 101 forks · MIT licensed
 
 ## Experience
 
@@ -43,7 +46,7 @@ Leading AI-driven mobile development for Vietnam's largest re-commerce platform.
 
 **[VT Code](https://vinhnx.github.io/VTCode/)** (2025 – Present)
 
-Open-source agent harness written in Rust, with a shared runtime powering a native macOS application and terminal interface. ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/))
+Open-source agent harness in Rust (27-crate workspace) — shared runtime powering a native macOS app and terminal interface. 916 stars · 101 forks. ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/))
 
 **[VT Chat](https://github.com/vinhnx/vtchat)** (2024 – Present)
 
@@ -69,11 +72,11 @@ Voice-first weather app built on Combine.
 
 **[OpenAI Codex Contributor](https://github.com/openai/codex/commits?author=vinhnx)**
 
-Contributed to OpenAI's open-source Codex CLI
+Contributed to OpenAI's open-source Codex CLI (merged commits)
 
 **[Alibaba's QwenCode Contributor](https://github.com/QwenLM/qwen-code/pull/933)**
 
-Contributed to Alibaba's Qwen Code CLI.
+Contributed to Alibaba's Qwen Code CLI (merged PR).
 
 ## Writing
 
@@ -85,7 +88,7 @@ Contributed to Alibaba's Qwen Code CLI.
 
 **Languages:** Rust, Swift, Objective-C, Python, JavaScript, TypeScript, Ruby
 
-**Agent engineering:** Agent runtime design, tool execution, sandboxing and permission policies, session persistence, headless execution, evaluations
+**Agent engineering:** Agent runtime design, tool execution, sandboxing and permission policies, session persistence, headless execution, evaluations, MCP/ACP integration, plugin systems
 
 **AI / ML:** LLMs, multimodal processing, on-device ML, NLP, RAG, agentic workflows
 

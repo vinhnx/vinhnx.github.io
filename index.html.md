@@ -16,7 +16,9 @@ Currently focused on agent engineering, runtime architecture, developer tools, a
 
 ## Featured
 
-**[VT Code](https://vinhnx.github.io/VTCode/)** — Open-source agent harness written in Rust, with a shared runtime powering a native macOS application and terminal interface.
+**[VT Code](https://vinhnx.github.io/VTCode/)** — Open-source agent harness in Rust (27-crate workspace), with a shared runtime powering a native macOS app and terminal interface. Full agent stack: agent loop, tool execution, sandboxing and permission policies, session persistence, and headless execution.
+
+916 GitHub stars · 101 forks
 
 [GitHub](https://github.com/vinhnx/VTCode) · [Website](https://vinhnx.github.io/VTCode/) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/)
 
@@ -45,7 +47,7 @@ Leading AI-driven mobile development for Vietnam's largest re-commerce platform.
 
 **Personal**
 
-- [VT Code](https://vinhnx.github.io/VTCode/) — Open-source agent harness written in Rust, with a shared runtime powering a native macOS application and terminal interface. ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/))
+- [VT Code](https://vinhnx.github.io/VTCode/) — Open-source agent harness in Rust (27-crate workspace) — shared runtime powering a native macOS app and terminal interface. 916 stars · 101 forks. ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/))
 - [VT Chat](https://github.com/vinhnx/vtchat) — Privacy-first AI chat app with RAG
 - [VT.ai](https://github.com/vinhnx/VT.ai) — Multimodal AI chat with dynamic conversation routing
 - [Clendar](https://github.com/vinhnx/Clendar) — Minimal SwiftUI calendar, featured by Apple
@@ -54,8 +56,8 @@ Leading AI-driven mobile development for Vietnam's largest re-commerce platform.
 
 **Open Source**
 
-- [Contributed to OpenAI's open-source Codex CLI](https://github.com/openai/codex/commits?author=vinhnx) — OpenAI Codex Contributor
-- [Contributed to Alibaba's Qwen Code CLI.](https://github.com/QwenLM/qwen-code/pull/933) — Alibaba's QwenCode Contributor
+- [Contributed to OpenAI's open-source Codex CLI](https://github.com/openai/codex/commits?author=vinhnx) — merged commits
+- [Contributed to Alibaba's Qwen Code CLI](https://github.com/QwenLM/qwen-code/pull/933) — merged PR
 
 ## Writing
 
