@@ -1,6 +1,6 @@
 # Nguyễn Xuân Vĩnh
 
-**Senior Software Engineer specializing in agent harnesses and native applications**
+**Senior Software Engineer · AI Agents & Native Applications**
 
 _"Learning by doing."_
 
@@ -10,9 +10,19 @@ _"Learning by doing."_
 
 ## About
 
-Senior Software Engineer specializing in agent harnesses and native applications with 10+ years building native applications, currently focused on production AI—agent harnesses, LLMs, multimodal processing, and on-device ML—across Rust and iOS.
+Software engineer with 12+ years of experience building native applications and shipping production software.
 
-Deep expertise in Swift, Objective-C, SwiftUI, and UIKit; working knowledge of Rust, Python, JavaScript, and TypeScript. Particular interest in NLP and multimodal data processing on mobile.
+Creator and maintainer of VT Code, an open-source agent harness written in Rust with a native macOS app and terminal interface.
+
+Currently focused on agent engineering, runtime architecture, developer tools, and human-agent interaction. Open-source contributor to OpenAI Codex and Qwen Code.
+
+---
+
+## Featured
+
+**[VT Code](https://vinhnx.github.io/VTCode/)** — Open-source agent harness written in Rust, with a shared runtime powering a native macOS application and terminal interface.
+
+[GitHub](https://github.com/vinhnx/VTCode) · [Website](https://vinhnx.github.io/VTCode/) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/)
 
 ---
 
@@ -40,7 +50,7 @@ Leading AI-driven mobile development for Vietnam's largest re-commerce platform.
 ## Projects
 
 **Personal**
-- **[VT Code](https://vinhnx.github.io/VTCode/)** — Hybrid terminal TUI + web coding interface with WebMCP, in Rust ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/))
+- **[VT Code](https://vinhnx.github.io/VTCode/)** — Open-source agent harness written in Rust, with a shared runtime powering a native macOS application and terminal interface. ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/))
 - **[VT Chat](https://github.com/vinhnx/vtchat)** — Privacy-first AI chat app with RAG
 - **[VT.ai](https://github.com/vinhnx/VT.ai)** — Multimodal AI chat with dynamic conversation routing
 - **[Clendar](https://github.com/vinhnx/Clendar)** — Minimal SwiftUI calendar, featured by Apple

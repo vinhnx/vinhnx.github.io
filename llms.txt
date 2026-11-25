@@ -1,8 +1,8 @@
 # Nguyen Xuan Vinh
 
-> Senior Software Engineer specializing in agent harnesses and native applications with 10+ years building native applications, currently focused on production AI (agent harnesses, LLMs, multimodal processing, on-device ML) across Rust and iOS. Based in Vietnam.
+> Senior Software Engineer · AI Agents & Native Applications with 12+ years building native applications and shipping production software. Creator and maintainer of VT Code, an open-source agent harness in Rust with a native macOS app and terminal interface. Based in Vietnam.
 
-Core skills: Swift, Objective-C, SwiftUI, UIKit. Working knowledge of Rust, Python, JavaScript, TypeScript. Focus areas: NLP and multimodal data processing on mobile, agent runtime infrastructure, spec-driven development.
+Core skills: Rust, Swift, Objective-C, SwiftUI, UIKit. Agent engineering: agent runtime design, tool execution, sandboxing and permission policies, session persistence, headless execution, evaluations. Focus areas: agent engineering, runtime architecture, developer tools, human-agent interaction, production AI.
 
 ## Profile
 
@@ -10,6 +10,10 @@ Core skills: Swift, Objective-C, SwiftUI, UIKit. Working knowledge of Rust, Pyth
 - [GitHub](https://github.com/vinhnx): Source code and open source contributions
 - [LinkedIn](https://www.linkedin.com/in/vinhnx): Professional profile
 - [ChatGPT](https://chatgpt.com/u/vinhnx): ChatGPT profile
+
+## Featured
+
+- [VT Code](https://vinhnx.github.io/VTCode/): Open-source agent harness written in Rust, with a shared runtime powering a native macOS application and terminal interface. ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/)), MIT licensed (2025 – Present)
 
 ## Experience
 
@@ -19,7 +23,7 @@ Core skills: Swift, Objective-C, SwiftUI, UIKit. Working knowledge of Rust, Pyth
 
 ## Projects
 
-- [VT Code](https://vinhnx.github.io/VTCode/): Hybrid terminal TUI + web coding interface with WebMCP — open-source coding agent in Rust ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/)), MIT licensed (2025 – Present)
+- [VT Code](https://vinhnx.github.io/VTCode/): Open-source agent harness written in Rust, with a shared runtime powering a native macOS application and terminal interface. ([GitHub](https://github.com/vinhnx/VTCode) · [ChatGPT Site](https://vtcode.vinhnx.chatgpt.site/)), MIT licensed (2025 – Present)
 - [VT Chat](https://github.com/vinhnx/vtchat): Privacy-first AI chat app with RAG, local-first architecture (2024 – Present)
 - [VT.ai](https://github.com/vinhnx/VT.ai): Multimodal AI chat with dynamic conversation routing (2024 – Present)
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal SwiftUI calendar app, featured by Apple (2020 – Present)
@@ -44,9 +48,10 @@ Contributed to Alibaba's Qwen Code CLI.
 
 ## Skills
 
-- Languages: Swift, Objective-C, Rust, Python, JavaScript, TypeScript, Ruby
-- iOS: UIKit, SwiftUI, Combine, Core Data, AVFoundation, Core ML, TensorFlow Lite
+- Languages: Rust, Swift, Objective-C, Python, JavaScript, TypeScript, Ruby
+- Agent engineering: Agent runtime design, tool execution, sandboxing and permission policies, session persistence, headless execution, evaluations
 - AI / ML: LLMs, multimodal processing, on-device ML, NLP, RAG, agentic workflows
+- Native: UIKit, SwiftUI, Combine, Core Data, AVFoundation, Core ML, TensorFlow Lite, macOS app development
 - Architecture: Clean Architecture, MVVM, Protocol-Oriented Programming, local-first design
 
 ## Education & Certifications
