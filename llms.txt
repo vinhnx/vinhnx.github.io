@@ -1,6 +1,6 @@
 # Nguyen Xuan Vinh
 
-> Senior iOS Engineer & Applied AI practitioner with 10+ years building native mobile applications, currently focused on integrating production AI (LLMs, multimodal processing, on-device ML) directly into iOS apps. Based in Vietnam.
+> Senior Software Engineer specializing in agent harnesses and native applications with 10+ years building native applications, currently focused on production AI (agent harnesses, LLMs, multimodal processing, on-device ML) across Rust and iOS. Based in Vietnam.
 
 Core skills: Swift, Objective-C, SwiftUI, UIKit. Working knowledge of Rust, Python, JavaScript, TypeScript. Focus areas: NLP and multimodal data processing on mobile, agent runtime infrastructure, spec-driven development.
 

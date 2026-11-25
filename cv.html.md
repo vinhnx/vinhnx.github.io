@@ -1,12 +1,12 @@
 # Nguyễn Xuân Vĩnh
 
-Senior iOS Engineer & Applied AI
+Senior Software Engineer specializing in agent harnesses and native applications
 
 "Learning by doing."
 
 [vinhnx.github.io](https://vinhnx.github.io) · [github.com/vinhnx](https://github.com/vinhnx) · [linkedin.com/in/vinhnx](https://www.linkedin.com/in/vinhnx) · [x.com/vinhnx](https://x.com/vinhnx) · [chatgpt.com/u/vinhnx](https://chatgpt.com/u/vinhnx)
 
-Senior iOS Engineer with 10+ years building native mobile applications, currently focused on integrating production AI — LLMs, multimodal processing, on-device ML — directly into iOS apps.
+Senior Software Engineer specializing in agent harnesses and native applications with 10+ years building native applications, currently focused on production AI — agent harnesses, LLMs, multimodal processing, and on-device ML — across Rust and iOS.
 
 Deep expertise in Swift, Objective-C, SwiftUI, and UIKit; working knowledge of Rust, Python, JavaScript, and TypeScript. Particular interest in NLP and multimodal data processing on mobile.
 
